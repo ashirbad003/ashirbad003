@@ -1,1 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<svg
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="1600"
+height="180"
+viewBox="0 0 1600 180">
+
+<defs>
+
+<linearGradient
+id="footerGradient"
+x1="0%"
+y1="0%"
+x2="100%"
+y2="0%">
+
+<stop offset="0%" stop-color="#05030F"/>
+
+<stop offset="25%" stop-color="#3B0764"/>
+
+<stop offset="50%" stop-color="#7C3AED"/>
+
+<stop offset="75%" stop-color="#3B0764"/>
+
+<stop offset="100%" stop-color="#05030F"/>
+
+</linearGradient>
+
+<linearGradient
+id="lineGradient"
+x1="0%"
+y1="0%"
+x2="100%"
+y2="0%">
+
+<stop offset="0%" stop-color="#00000000"/>
+
+<stop offset="15%" stop-color="#7C3AED"/>
+
+<stop offset="50%" stop-color="#FFFFFF"/>
+
+<stop offset="85%" stop-color="#7C3AED"/>
+
+<stop offset="100%" stop-color="#00000000"/>
+
+</linearGradient>
+
+<filter id="glow">
+
+<feGaussianBlur
+stdDeviation="5"
+result="blur"/>
+
+<feMerge>
+
+<feMergeNode in="blur"/>
+
+<feMergeNode in="SourceGraphic"/>
+
+</feMerge>
+
+</filter>
+
+<radialGradient id="bgGlow">
+
+<stop
+offset="0%"
+stop-color="#A855F7"
+stop-opacity=".45"/>
+
+<stop
+offset="100%"
+stop-color="#A855F7"
+stop-opacity="0"/>
+
+</radialGradient>
+
+</defs>
+
+<!-- Background -->
+
+<rect
+width="1600"
+height="180"
+fill="url(#footerGradient)"/>
+
+<!-- Glow -->
+
+<ellipse
+
+cx="800"
+
+cy="90"
+
+rx="340"
+
+ry="60"
+
+fill="url(#bgGlow)"
+
+opacity=".35">
+
+<animate
+
+attributeName="rx"
+
+values="340;390;340"
+
+dur="8s"
+
+repeatCount="indefinite"/>
+
+</ellipse>
+
+<!-- Divider -->
+
+<line
+
+x1="120"
+
+y1="30"
+
+x2="1480"
+
+y2="30"
+
+stroke="url(#lineGradient)"
+
+stroke-width="2"
+
+filter="url(#glow)">
+
+<animate
+
+attributeName="stroke-opacity"
+
+values=".4;1;.4"
+
+dur="5s"
+
+repeatCount="indefinite"/>
+
+</line>
+
+<!-- Decorative Circles -->
+
+<circle
+cx="120"
+cy="30"
+r="5"
+fill="#C084FC">
+
+<animate
+
+attributeName="r"
+
+values="5;8;5"
+
+dur="3s"
+
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle
+cx="1480"
+cy="30"
+r="5"
+fill="#C084FC">
+
+<animate
+
+attributeName="r"
+
+values="5;8;5"
+
+dur="3s"
+
+repeatCount="indefinite"/>
+
+</circle>
+
+<!-- Name -->
+
+<text
+
+x="800"
+
+y="88"
+
+text-anchor="middle"
+
+font-family="Inter,Segoe UI,Arial"
+
+font-size="30"
+
+font-weight="700"
+
+fill="#FFFFFF"
+
+filter="url(#glow)">
+
+Ashirbad Pattnaik
+
+</text>
+
+<!-- Title -->
+
+<text
+
+x="800"
+
+y="118"
+
+text-anchor="middle"
+
+font-family="Inter,Segoe UI,Arial"
+
+font-size="17"
+
+fill="#D8B4FE">
+
+Software Engineer • AI Engineer • Full Stack Developer
+
+</text>
+
+<!-- Tagline -->
+
+<text
+
+x="800"
+
+y="145"
+
+text-anchor="middle"
+
+font-family="Inter,Segoe UI,Arial"
+
+font-size="15"
+
+fill="#FFFFFFAA">
+
+Turning ideas into scalable software with AI and full-stack engineering.
+
+</text>
+
+<!-- Bottom Glow -->
+
+<line
+
+x1="350"
+
+y1="170"
+
+x2="1250"
+
+y2="170"
+
+stroke="url(#lineGradient)"
+
+stroke-width="1.5">
+
+<animate
+
+attributeName="stroke-opacity"
+
+values=".2;.8;.2"
+
+dur="6s"
+
+repeatCount="indefinite"/>
+
+</line>
+
+<!-- Corner Decorations -->
+
+<g
+stroke="#A855F7"
+stroke-width="1.5"
+opacity=".5">
+
+<path d="M40 150 L80 150"/>
+<path d="M40 150 L40 110"/>
+
+<path d="M1560 150 L1520 150"/>
+<path d="M1560 150 L1560 110"/>
+
+</g>
+
+</svg>
