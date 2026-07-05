@@ -1,100 +1,95 @@
+<!-- =============================================================== -->
+<!--                                                                 -->
+<!--                  ASHIRBAD PATTNAIK                              -->
+<!--                                                                 -->
+<!-- =============================================================== -->
+
 <div align="center">
 
-<img width="100%" src="./assets/hero.svg" alt="Ashirbad Pattnaik Banner"/>
+# Ashirbad Pattnaik
 
-<br>
+### Software Engineer • AI Engineer • Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Ashirbad+Pattnaik;Software+Engineer;AI+Engineer;Full+Stack+Developer;Building+Intelligent+Software"/>
-
-<br>
-
-<h2>Software Engineer • AI Engineer • Full Stack Developer</h2>
-
-<p>
-Building intelligent software through Artificial Intelligence,
-Cloud Computing, Backend Engineering, and Modern Software Development.
-</p>
+Building intelligent software through Artificial Intelligence, Cloud Computing, and modern Software Engineering.
 
 <br>
 
 <a href="./Ashirbad_Pattnaik_Resume_2026.pdf">
-<img src="https://img.shields.io/badge/📄%20Resume-6D28D9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/Resume-4F46E5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 <a href="https://ash-tech.lovable.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ashirbad003/">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:pattnaikashirbad4@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ashirbad003">
-<img src="https://img.shields.io/badge/💻%20GitHub-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ashirbad003&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20To-Full--Time%20Opportunities-success?style=for-the-badge"/>
-
-<br><br>
-
-📍 **Odisha, India**
 
 </div>
 
 ---
 
-# 👋 Welcome
+# About Me
 
-Welcome to my GitHub Portfolio.
+I'm **Ashirbad Pattnaik**, a Computer Science & Technology undergraduate passionate about building software that solves meaningful real-world problems.
 
-I'm **Ashirbad Pattnaik**, a passionate Computer Science & Technology undergraduate who enjoys designing, developing, and deploying software that solves practical real-world problems.
+My primary interests include:
 
-This GitHub profile is more than a collection of repositories.
+- Artificial Intelligence
+- Software Engineering
+- Backend Development
+- Full Stack Development
+- Cloud Computing
+- Data Analytics
 
-It represents my engineering journey, technical growth, projects, certifications, internships, and continuous learning as I work toward becoming a professional Software Engineer.
+I enjoy transforming ideas into practical applications using modern engineering principles, clean architecture, and scalable technologies.
 
-Whether you're a recruiter, hiring manager, developer, or technology enthusiast, I hope this portfolio provides a clear understanding of my work, skills, and engineering mindset.
-
----
-
-# 🚀 About Me
-
-I enjoy building software that combines modern engineering principles with practical problem-solving.
-
-My interests span multiple areas of computer science, allowing me to explore different technologies while maintaining a strong software engineering foundation.
-
-### Areas of Interest
-
-- 🤖 Artificial Intelligence
-- 💻 Software Engineering
-- ⚙ Backend Development
-- 🌐 Full Stack Development
-- ☁ Cloud Computing
-- 📊 Data Analytics
-- 📱 Mobile Application Development
-
-I enjoy transforming ideas into scalable applications while focusing on performance, maintainability, clean architecture, and user experience.
+I'm currently looking for opportunities where I can contribute as a **Software Engineer**, **AI Engineer**, or **Backend Developer**, while continuously learning from experienced teams and building products that create real impact.
 
 ---
 
-# 💜 Professional Snapshot
+# Why This GitHub?
+
+This profile is not simply a place to upload code.
+
+It serves as my engineering portfolio, bringing together my software projects, technical experience, certifications, and continuous learning journey.
+
+Whether you're a recruiter, hiring manager, engineer, or fellow developer, this profile is designed to help you quickly understand my work and the technologies I enjoy building with.
+
+---
+
+# What You'll Find Here
+
+| Section | Description |
+|----------|-------------|
+| 👨‍💻 About | My background and engineering interests |
+| 💼 Experience | Internship and technical experience |
+| 🚀 Projects | AI, Full Stack and Software Engineering projects |
+| 🛠 Tech Stack | Languages, frameworks and tools |
+| 🎓 Certifications | Professional certifications and learning |
+| 📊 GitHub | Development activity and statistics |
+| 📄 Resume | Latest downloadable resume |
+| 📬 Contact | Ways to connect with me |
+
+---
+
+# Professional Snapshot
 
 ```yaml
 Name:
   Ashirbad Pattnaik
 
-Degree:
-  Bachelor of Technology
-
-Branch:
+Education:
+  B.Tech
   Computer Science & Technology
 
 University:
@@ -103,336 +98,335 @@ University:
 Location:
   Odisha, India
 
-Current Status:
-  Final Year Undergraduate
-
 Open To:
   - Software Engineer
   - AI Engineer
   - Backend Developer
-  - Full Stack Developer
 
-Interests:
+Current Interests:
   - Artificial Intelligence
   - Backend Engineering
-  - Software Engineering
+  - Full Stack Development
   - Cloud Computing
-  - System Design
 ```
 
 ---
 
-# 💡 Engineering Philosophy
+# Engineering Philosophy
 
-> **"Technology creates the greatest impact when it solves meaningful problems for real people."**
-
-I believe software engineering is much more than writing code.
-
-It is about understanding requirements, designing scalable systems, writing maintainable software, collaborating effectively, and continuously improving through every project.
-
-Every application I build helps strengthen my technical knowledge, engineering mindset, and problem-solving ability.
+> "Technology is most valuable when it solves real problems. I believe in building software that is reliable, scalable, and meaningful."
 
 ---
 
-# 🎯 Career Objective
+# Career Objective
 
-My goal is to build intelligent, scalable, and impactful software products by combining Artificial Intelligence, Cloud Computing, Backend Engineering, and Modern Software Development.
-
-I aspire to work with engineering teams where I can solve challenging problems, contribute to innovative products, and continuously grow as a software engineer.
+To contribute to innovative engineering teams by building intelligent software products powered by Artificial Intelligence, scalable backend systems, and modern development practices while continuously growing as a software engineer.
 
 ---
 
-# 🧭 Quick Navigation
+# Quick Navigation
 
-| Section | Description |
-|----------|-------------|
-| 👋 About Me | My background and engineering interests |
-| 💻 Technical Expertise | Skills, technologies, and tools |
-| 💼 Professional Experience | Internship and practical experience |
-| 🚀 Featured Projects | AI, Mobile, Full Stack, and Enterprise Applications |
-| 🏆 Certifications | Professional certifications and achievements |
-| 📊 GitHub Dashboard | Development activity and GitHub insights |
-| 🌱 Current Learning | Technologies and concepts I'm exploring |
-| 📄 Resume | Download the latest version |
-| 📬 Contact | Ways to connect with me |
+- Technical Expertise
+- Professional Experience
+- Education
+- Certifications
+- Featured Projects
+- GitHub Analytics
+- Current Focus
+- Resume
+- Contact
 
 ---
 
 <div align="center">
 
-## 💜 Building Software • Solving Problems • Learning Every Day
-
-*"Every repository represents a problem solved, every project represents a lesson learned, and every contribution brings me one step closer to becoming a better engineer."*
+### Building software with purpose.
 
 </div>
 
 ---
 
-
-<!-- =============================================================== -->
-<!--                     TECHNICAL PROFILE                           -->
-<!-- =============================================================== -->
-
-# <img src="https://img.icons8.com/fluency/48/source-code.png" width="30"/> Technical Profile
-
-> **"Strong engineering begins with strong fundamentals."**
-
-My technical foundation has been built through **academic learning, internships, certifications, hackathons, and real-world software projects.**
-
-I enjoy building software that is **scalable, maintainable, user-focused, and production-ready.**
+<!-- ========================================================== -->
+<!--                 TECHNICAL EXPERTISE                        -->
+<!-- ========================================================== -->
 
 ---
+
+# Technical Expertise
+
+> I enjoy building scalable, secure, and intelligent software by combining modern engineering principles with practical problem solving.
+
+<br>
+
+## Programming Languages
 
 <div align="center">
 
-# 💜 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css,flutter,react,nodejs,fastapi,mysql,sqlite,git,github,vscode,aws,linux&perline=9"/>
+| Python | Java | JavaScript | C | C++ | SQL |
+|:------:|:----:|:----------:|:--:|:---:|:---:|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐☆ | ⭐⭐⭐⭐☆ | ⭐⭐⭐☆☆ | ⭐⭐⭐☆☆ | ⭐⭐⭐⭐☆ |
 
 </div>
 
 ---
 
-# ⚡ Core Technical Skills
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Programming
-
-- Python
-- Java
-- JavaScript
-- C
-- C++
-- SQL
-
-### 🌐 Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- React Native
-- Flutter
-
-### ⚙ Backend
-
-- FastAPI
-- Node.js
-- Express.js
-- REST APIs
-
-</td>
-
-<td width="50%">
-
-### 🤖 Artificial Intelligence
-
-- Machine Learning
-- NLP
-- Prompt Engineering
-- LLM Applications
-- Data Analytics
-
-### ☁ Cloud
-
-- AWS
-
-### 🗄 Database
-
-- MySQL
-- SQLite
-- Neo4j
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 Engineering Competencies
+## Software Engineering
 
 <div align="center">
 
-| Domain | Expertise |
-|:---|:---|
-| 💻 Software Engineering | Clean Architecture • OOP • Design Principles |
-| ⚙ Backend Engineering | REST APIs • Authentication • Database Integration |
-| 🤖 Artificial Intelligence | Machine Learning • NLP • AI Applications |
-| 🌐 Full Stack Development | Responsive Web & Mobile Applications |
-| ☁ Cloud Computing | AWS Fundamentals • Deployment |
-| 📊 Data Analytics | Data Processing • Visualization • Insights |
+| Area | Technologies |
+|------|--------------|
+| Object-Oriented Programming | Java, Python |
+| Data Structures & Algorithms | Arrays, Trees, Graphs, Dynamic Programming |
+| Database Management | MySQL, SQLite, Neo4j |
+| Backend Development | FastAPI, Node.js, Express.js |
+| Mobile Development | Flutter, React Native |
+| Version Control | Git, GitHub |
+| Development Tools | VS Code, Jupyter Notebook |
+| Cloud Computing | AWS |
 
 </div>
 
 ---
 
-# 📈 Technical Proficiency
+## Artificial Intelligence
+
+<div align="center">
+
+| Domain | Experience |
+|---------|------------|
+| Artificial Intelligence | ⭐⭐⭐⭐☆ |
+| Machine Learning | ⭐⭐⭐⭐☆ |
+| Natural Language Processing | ⭐⭐⭐⭐☆ |
+| Prompt Engineering | ⭐⭐⭐⭐⭐ |
+| Data Analysis | ⭐⭐⭐⭐⭐ |
+| Model Evaluation | ⭐⭐⭐⭐☆ |
+
+</div>
+
+---
+
+# Engineering Skills Dashboard
 
 ```text
-Software Engineering      ████████████████████████████   95%
+Software Engineering
 
-Artificial Intelligence   ██████████████████████████     90%
+███████████████████████████ 95%
 
-Backend Development       █████████████████████████      90%
+Artificial Intelligence
 
-Full Stack Development    ███████████████████████        85%
+████████████████████████░░ 90%
 
-Database Design           █████████████████████          82%
+Backend Development
 
-Cloud Computing           ██████████████████             75%
+████████████████████████░░ 90%
 
-Problem Solving           ███████████████████████████    93%
+Full Stack Development
+
+██████████████████████░░░░ 85%
+
+Database Systems
+
+█████████████████████░░░░░ 82%
+
+Cloud Computing
+
+██████████████████░░░░░░░░ 75%
+
+Problem Solving
+
+█████████████████████████░ 93%
 ```
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
-## 🏭 IT & ERP Intern
+## 2026
 
-### RINL – Visakhapatnam Steel Plant
+### IT & ERP Intern
 
-Worked on enterprise software solutions focused on workflow automation, database management, and ERP-based business processes.
+**RINL Visakhapatnam Steel Plant**
 
-### Key Contributions
+Worked on enterprise software development and ERP workflow optimization while collaborating with technical teams to support business process automation.
 
-- Enterprise Software Development
-- ERP Workflow Automation
-- Database Integration
-- Authentication & Authorization
-- Business Process Optimization
+**Key Contributions**
+
+- Enterprise software development
+- ERP workflow analysis
+- Web application development
+- Database integration
+- Business process optimization
 
 ---
 
-## 📊 Data Science & Data Analytics Intern
+## 2025
 
-### NIST University
+### Data Science & Data Analysis Intern
 
-Worked on Python-based analytics projects involving data preprocessing, visualization, and statistical analysis.
+**NIST University**
 
-### Key Contributions
+Applied Python for data preprocessing, visualization, statistical analysis, and business insight generation.
+
+**Highlights**
 
 - Data Cleaning
 - Data Visualization
-- Python Automation
 - Statistical Analysis
-- Insight Generation
+- Python Automation
+- Decision Support
 
 ---
 
-# 🎓 Education
+## 2024
 
-| Qualification | Institution |
-|:---|:---|
-| 🎓 Bachelor of Technology (Computer Science & Technology) | NIST University |
-| 📘 Higher Secondary (Science) | Saraswati Vidya Mandir Higher Secondary School |
-| 📗 Secondary Education | Saraswati Sishu Vidya Mandir |
+### Advanced Programming & Competitive Coding
+
+Completed intensive training focused on
+
+- Data Structures
+- Algorithms
+- Graph Theory
+- Trees
+- Dynamic Programming
+- Competitive Coding
 
 ---
 
-# 🏆 Professional Certifications
+# Education
+
+| Qualification | Institute |
+|--------------|-----------|
+| B.Tech Computer Science & Technology | NIST University |
+| Higher Secondary (Science) | Saraswati Vidya Mandir H.S. School |
+| Secondary Education | Saraswati Sishu Vidya Mandir |
+
+---
+
+# Professional Certifications
+
+### Artificial Intelligence
+
+- AI Engineer Certification
+- AI & Data Scientist Certification
+
+---
+
+### Software Engineering
+
+- Electronic Arts Software Engineering Job Simulation
+
+---
+
+### Cloud
+
+- AWS Solutions Architecture Job Simulation
+
+---
+
+### Data Analytics
+
+- Deloitte Data Analytics Job Simulation
+
+- Tata GenAI Powered Data Analytics
+
+---
+
+### Generative AI
+
+- Boston Consulting Group GenAI Job Simulation
+
+---
+
+### Database
+
+- Neo4j Certified Professional
+
+---
+
+### Programming
+
+- Java Certification
+
+---
+
+# Awards & Recognition
+
+🏆 Matric Super Topper
+
+🏅 UTSE Merit Certificate
+
+🏅 Bajaj Capital Certificate of Appreciation
+
+🚀 Trithon 2026 Hackathon Participant
+
+💼 Brand Executive — LaunchEd Global
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-| Category | Certifications |
-|:---|:---|
-| 🤖 Artificial Intelligence | AI Engineer • AI & Data Scientist |
-| 💻 Software Engineering | Electronic Arts Software Engineering Job Simulation |
-| ☁ Cloud Computing | AWS Solutions Architecture Job Simulation |
-| 📊 Data Analytics | Deloitte • Tata GenAI Job Simulations |
-| 🗄 Database | Neo4j Certified Professional |
-| ☕ Programming | Java Professional Certification |
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ashirbad003&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashirbad003&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ashirbad003&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🥇 Achievements
-
-- 🏅 Matric Super Topper
-- 🏅 UTSE Merit Certificate
-- 🏅 Bajaj Capital Certificate of Appreciation
-- 🚀 Trithon Hackathon Participant
-- 💼 Brand Executive – LaunchEd Global
-
----
-
-# 🌱 Currently Learning
+# Currently Exploring
 
 ```yaml
-Artificial Intelligence:
-  • Large Language Models
-  • AI Agents
-  • Machine Learning
+Learning:
 
-Software Engineering:
-  • System Design
-  • Design Patterns
-  • Backend Architecture
+  - Artificial Intelligence
 
-Cloud Computing:
-  • AWS Services
-  • Cloud Deployment
-  • Scalable Infrastructure
+  - Large Language Models
 
-Development:
-  • Production Ready Applications
-  • Clean Architecture
+  - Cloud Architecture
+
+  - System Design
+
+Building:
+
+  - FemCare AI
+
+  - ATS Resume Checker
+
+  - Intelligent Full Stack Applications
+
+Career Goal:
+
+  - Software Engineer
+
+  - AI Engineer
+
+  - Backend Developer
 ```
 
 ---
 
-# 📖 Learning Philosophy
-
-Technology evolves every day, and I believe learning should never stop.
-
-I continuously improve my skills through **hands-on projects, certifications, technical documentation, hackathons, and practical experimentation** rather than relying only on theoretical knowledge.
-
-My goal is not simply to learn new technologies, but to understand **how and why they work** so I can build reliable, scalable, and impactful software.
-
----
-
-<div align="center">
-
-## 🚀 Strong Fundamentals • Practical Experience • Continuous Improvement
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,6D28D9,4C1D95&height=120&section=footer"/>
-
-</div>
-
----
-
-
-
 <!-- =============================================================== -->
-<!--                  FEATURED ENGINEERING PROJECTS                  -->
+<!--                    FEATURED PROJECTS                            -->
 <!-- =============================================================== -->
 
-# <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="30"/> Featured Engineering Projects
-
-> **"Projects are the strongest proof of engineering ability."**
-
-These projects represent my experience in **Artificial Intelligence, Software Engineering, Backend Development, Mobile Development, Enterprise Applications, and Cloud Computing.**
-
-Each repository demonstrates my approach to designing scalable software, solving real-world problems, and applying modern engineering practices.
-
 ---
 
-<div align="center">
+# Featured Projects
 
-# 🚀 Featured Portfolio
+The projects below represent my experience across Artificial Intelligence, Software Engineering, Full Stack Development, Mobile Development, Cloud Computing, and Enterprise Applications.
 
-| Project | Domain | Status |
-|:---|:---|:---:|
-| 🌸 FemCare AI | Artificial Intelligence | 🟢 Active |
-| 📄 ATS Resume Checker | AI & NLP | 🟢 Active |
-| 📱 INTERACT | Full Stack Development | 🟢 Active |
-| 📅 Menstruation Tracker | Mobile Development | 🟢 Active |
-| 🏭 RINL Gate Pass System | Enterprise Software | ✅ Completed |
-
-</div>
+Each project reflects my approach to solving practical problems through modern engineering principles and scalable software design.
 
 ---
 
@@ -440,136 +434,208 @@ Each repository demonstrates my approach to designing scalable software, solving
 
 ### AI-Powered Women's Healthcare Platform
 
-> *Building intelligent healthcare solutions using Artificial Intelligence.*
+> Empowering women's healthcare through Artificial Intelligence and intelligent digital solutions.
 
-<img src="https://img.shields.io/badge/Status-Active%20Development-8B5CF6?style=for-the-badge"/>
+---
 
-### 🎯 Highlights
+## Overview
 
-- 🤖 AI Health Assistant
-- 📅 Smart Cycle Prediction
-- ❤️ Personalized Health Insights
-- 📊 Analytics Dashboard
-- ☁ Cloud Ready
-- 🔐 Secure Authentication
+FemCare AI is an intelligent healthcare platform designed to assist women with menstrual health tracking, AI-powered health guidance, personalized recommendations, and future-ready healthcare services.
 
-### ⚙ Tech Stack
+---
 
-<div align="center">
+## Key Features
 
-<img src="https://skillicons.dev/icons?i=flutter,python,fastapi,sqlite,aws"/>
+- AI Health Assistant
+- Menstrual Cycle Tracking
+- Smart Predictions
+- Personalized Insights
+- Health Dashboard
+- Secure Authentication
+- Cloud Ready Architecture
+- Responsive User Interface
 
-</div>
+---
 
-### 🏗 Engineering Focus
+## Tech Stack
 
-- Modular Architecture
-- REST APIs
+| Layer | Technology |
+|--------|------------|
+| Frontend | Flutter |
+| Backend | FastAPI |
+| AI | Python |
+| Database | SQLite / MySQL |
+| Cloud | AWS |
+
+---
+
+## Engineering Focus
+
 - AI Integration
-- Authentication
+- Modular Architecture
 - Scalable Backend
+- Secure Authentication
+- User-Centric Design
+
+---
+
+## Future Roadmap
+
+- AI Voice Assistant
+- Doctor Consultation
+- Health Reports
+- Wearable Device Integration
+- Multi-language Support
 
 ---
 
 # 📄 ATS Resume Checker
 
-### AI Resume Evaluation Platform
+### AI Resume Analysis Platform
 
-> *Helping candidates improve resumes using AI and NLP.*
+> Helping candidates optimize resumes using Artificial Intelligence and Natural Language Processing.
 
-<img src="https://img.shields.io/badge/Status-Active%20Development-8B5CF6?style=for-the-badge"/>
+---
 
-### 🎯 Highlights
+## Overview
 
-- 📄 Resume Parsing
-- 📊 ATS Score
-- 🤖 AI Suggestions
-- 🧠 Skill Extraction
-- 🔍 Keyword Analysis
+An intelligent ATS Resume Checker built using NLP and Large Language Models that evaluates resumes, extracts skills, and provides recruiter-oriented recommendations.
 
-### ⚙ Tech Stack
+---
 
-<div align="center">
+## Key Features
 
-<img src="https://skillicons.dev/icons?i=python"/>
+- Resume Parsing
+- ATS Compatibility Score
+- Skill Extraction
+- Keyword Analysis
+- AI Suggestions
+- PDF Processing
+- Resume Improvement Recommendations
 
-</div>
+---
 
-**AI Technologies**
+## Tech Stack
 
-- NLP
+| Layer | Technology |
+|--------|------------|
+| Language | Python |
+| Framework | Streamlit |
+| AI | NLP |
+| LLM | APEX LLM |
+
+---
+
+## Engineering Focus
+
 - Prompt Engineering
-- LLM Applications
-
-### 🏗 Engineering Focus
-
-- Document Processing
+- NLP
+- LLM Integration
 - AI Workflow
-- Intelligent Recommendations
+- Document Processing
+
+---
+
+## Future Roadmap
+
+- LinkedIn Optimization
+- Resume Generator
+- JD Matching
+- Multi-language Resume Support
 
 ---
 
 # 📱 INTERACT
 
-### AI-Powered Social Media Platform
+### Modern Social Media Platform
 
-> *A modern cross-platform social networking application.*
+> A next-generation social platform combining modern communication with AI-powered experiences.
 
-<img src="https://img.shields.io/badge/Status-Active%20Development-8B5CF6?style=for-the-badge"/>
+---
 
-### 🎯 Highlights
+## Overview
 
-- 👤 User Profiles
-- 💬 Messaging
-- 🔍 AI Search
-- ☁ Cloud Integration
-- 📱 Cross Platform
+INTERACT is a scalable social media application designed with modern architecture, cloud integration, and intelligent search capabilities.
 
-### ⚙ Tech Stack
+---
 
-<div align="center">
+## Key Features
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,aws,mysql"/>
+- AI Search
+- User Profiles
+- Posts
+- Messaging
+- Notifications
+- Cloud Storage
+- Responsive Design
 
-</div>
+---
 
-### 🏗 Engineering Focus
+## Tech Stack
 
-- Full Stack Architecture
-- Cloud Integration
+| Layer | Technology |
+|--------|------------|
+| Frontend | React Native |
+| Backend | Node.js |
+| Cloud | AWS |
+| Database | SQL |
+
+---
+
+## Engineering Focus
+
+- Cross-platform Development
+- Cloud Architecture
 - Performance Optimization
 - Scalable Design
 
 ---
 
+## Future Roadmap
+
+- Live Streaming
+- Creator Dashboard
+- AI Recommendations
+- Community Features
+
+---
+
 # 📅 Menstruation Tracker
 
-### Smart Healthcare Mobile Application
+### Smart Health Tracking Application
 
-> *A mobile-first health tracking application.*
+> A mobile-first application focused on menstrual health tracking and personalized reminders.
 
-<img src="https://img.shields.io/badge/Status-Active%20Development-8B5CF6?style=for-the-badge"/>
+---
 
-### 🎯 Highlights
+## Features
 
-- 📅 Cycle Tracking
-- 🔔 Smart Notifications
-- 📊 Calendar View
-- ❤️ Health Reminders
+- Cycle Tracking
+- Notifications
+- Calendar View
+- Secure Data Storage
+- Personalized Reminders
 
-### ⚙ Tech Stack
+---
 
-<div align="center">
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=flutter,python,sqlite"/>
+Flutter
 
-</div>
+Python
 
-### 🏗 Engineering Focus
+SQLite
 
-- Mobile UX
-- Data Management
-- Secure Local Storage
+Notification Services
+
+---
+
+## Future Roadmap
+
+- Cloud Synchronization
+- AI Prediction Engine
+- Health Analytics
+- Doctor Connectivity
 
 ---
 
@@ -577,72 +643,79 @@ Each repository demonstrates my approach to designing scalable software, solving
 
 ### Enterprise Workflow Automation
 
-> *Automating industrial workflows through software engineering.*
+> A web application developed to streamline material gate pass management within an enterprise environment.
 
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+---
 
-### 🎯 Highlights
+## Features
 
-- 📦 Material Entry
-- ✅ Approval Workflow
-- 📊 Dashboard
-- 📄 Report Generation
-- 🔐 Authentication
+- Material Entry
+- Approval Workflow
+- Authentication
+- Report Generation
+- Dashboard
+- Secure Database
 
-### ⚙ Tech Stack
+---
 
-<div align="center">
+## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,js"/>
+Node.js
 
-</div>
+Express.js
 
-### 🏗 Engineering Focus
+SQLite
+
+Tailwind CSS
+
+JavaScript
+
+HTML
+
+---
+
+## Engineering Focus
 
 - Enterprise Software
+- Authentication
 - Workflow Automation
+- Database Design
 - Business Process Optimization
 
 ---
 
-# 🏆 Engineering Principles Applied
+# Engineering Principles
 
 <div align="center">
 
-| Principle | Implementation |
-|:---|:---|
-| 🏛 Clean Architecture | Modular & Maintainable Systems |
-| ⚡ Performance | Optimized Application Design |
-| 🔒 Security | Authentication & Secure APIs |
-| ☁ Scalability | Cloud-Ready Development |
-| 📚 Documentation | Structured Documentation |
-| 🧩 Reusability | Modular Components |
-| 🚀 Continuous Improvement | Iterative Development |
+| Principle | Approach |
+|-----------|----------|
+| 🧠 Problem Solving | Build practical software solutions |
+| 🏗 Clean Architecture | Modular and maintainable systems |
+| ⚡ Performance | Efficient implementation |
+| 🔒 Security | Authentication and secure design |
+| ☁ Scalability | Cloud-ready applications |
+| 🤝 Collaboration | Team-oriented development |
+| 📚 Continuous Learning | Improve through every project |
 
 </div>
 
 ---
 
-# 🌟 Technical Impact
+# Current Development Focus
 
-Through these projects I have strengthened my expertise in:
-
-- 🤖 Artificial Intelligence
-- 💻 Software Engineering
-- ⚙ Backend Development
-- 🌐 Full Stack Development
-- 📱 Mobile Application Development
-- ☁ Cloud Computing
-- 🗄 Database Design
-- 🏗 System Architecture
+- Artificial Intelligence
+- Software Engineering
+- Backend Development
+- Cloud Computing
+- Large Language Models
+- Full Stack Development
 
 ---
 
 <div align="center">
 
-## 💜 Building software that is scalable, practical, and impactful.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,6D28D9,4C1D95&height=120&section=footer"/>
+### "Every project is an opportunity to solve a real problem, learn something new, and build software that creates meaningful impact."
 
 </div>
 
@@ -650,42 +723,26 @@ Through these projects I have strengthened my expertise in:
 
 
 <!-- =============================================================== -->
-<!--                   GITHUB DASHBOARD & INSIGHTS                   -->
+<!--                  GITHUB DASHBOARD & FOOTER                      -->
 <!-- =============================================================== -->
 
-<div align="center">
+---
 
 # 📊 GitHub Dashboard
 
-> *"Consistency beats intensity. Every contribution is a step forward."*
-
-</div>
-
----
-
-# 📈 GitHub Analytics
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashirbad003&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ashirbad003&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashirbad003&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashirbad003&layout=compact&hide_border=true&theme=transparent"/>
 
-</div>
+<br><br>
 
-<br>
+<img src="https://streak-stats.demolab.com?user=ashirbad003&theme=transparent&hide_border=true"/>
 
-<div align="center">
+<br><br>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=ashirbad003&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashirbad003&theme=github-compact&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashirbad003&theme=github-compact&hide_border=true"/>
 
 </div>
 
@@ -695,73 +752,126 @@ Through these projects I have strengthened my expertise in:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashirbad003&theme=algolia&no-frame=true&column=4&margin-w=20&margin-h=20"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashirbad003&theme=algolia&no-frame=true&margin-w=15&column=4"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Repositories
+# 🌱 Currently Learning
+
+```yaml
+Artificial Intelligence
+
+Machine Learning
+
+Large Language Models (LLMs)
+
+AI Agents
+
+Backend Engineering
+
+System Design
+
+Cloud Computing
+
+AWS
+
+Scalable Software Architecture
+```
+
+---
+
+# 🎯 Career Vision
+
+I aspire to become a software engineer who builds intelligent, scalable, and impactful products that solve real-world challenges.
+
+I believe continuous learning, practical experience, and strong engineering fundamentals are the foundation of building meaningful technology.
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
-| Repository | Category | Status |
-|:----------|:---------|:------:|
-| 🌸 FemCare AI | Artificial Intelligence | 🟢 Active |
-| 📄 ATS Resume Checker | AI & NLP | 🟢 Active |
-| 📱 INTERACT | Full Stack Development | 🟢 Active |
-| 📅 Menstruation Tracker | Healthcare | 🟢 Active |
-| 🏭 RINL Material Gate Pass | Enterprise Software | ✅ Completed |
+<a href="mailto:pattnaikashirbad4@gmail.com">
+<img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashirbad003/">
+<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ash-tech.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ashirbad003">
+<img src="https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🌱 Current Focus
+# 📄 Resume
 
 <div align="center">
 
-| 🔥 Building | 📚 Learning | 🎯 Exploring |
-|:-----------|:-----------|:-------------|
-| AI Applications | System Design | AI Agents |
-| Backend APIs | Cloud Computing | LLMs |
-| Mobile Apps | Design Patterns | DevOps |
-| Enterprise Software | AWS | Scalable Architecture |
+<a href="./Ashirbad_Pattnaik_Resume_2026.pdf">
+
+<img src="https://img.shields.io/badge/Download%20Resume-4F46E5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+
+</a>
 
 </div>
 
 ---
 
-# 📌 2026 Goals
+# 💼 Open to Opportunities
 
-- 🚀 Build production-ready AI applications
-- ☁ Master AWS Cloud fundamentals
-- 🧠 Improve System Design knowledge
-- 📱 Publish polished open-source projects
-- 🤝 Contribute to the open-source community
-- 💼 Secure a Full-Time Software Engineering role
+I'm actively seeking:
+
+- Software Engineer
+- AI Engineer
+- Backend Developer
+- Full Stack Developer
+
+If my profile aligns with your requirements, I'd be happy to connect and discuss opportunities.
 
 ---
 
-# 💜 Why GitHub?
+# 💡 Developer Principles
 
-GitHub is where I document my learning, showcase my projects, and continuously improve as a software engineer.
+- Write clean, maintainable code.
+- Build software with purpose.
+- Focus on solving real-world problems.
+- Keep learning and improving every day.
+- Value collaboration, curiosity, and consistency.
 
-Every repository represents a practical step in my engineering journey, from solving real-world problems to experimenting with modern technologies and refining best practices.
+---
 
-I believe that consistent development, meaningful documentation, and clean architecture are just as important as writing code.
+# 🙏 Thank You
+
+Thank you for visiting my GitHub profile.
+
+I hope my projects, learning journey, and engineering approach provide a clear picture of my passion for technology and software development.
+
+If you find my work interesting, feel free to explore my repositories, connect with me on LinkedIn, or reach out via email.
 
 ---
 
 <div align="center">
 
-## ⚡ Engineering isn't just about writing code.
-
-### It's about solving problems, building reliable systems, and continuously improving.
+### ⭐ If you like my work, consider giving a star to the repositories you find useful.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:6D28D9,40:8B5CF6,70:A855F7,100:C084FC&section=footer"/>
+**Ashirbad Pattnaik**
+
+*Software Engineer • AI Engineer • Full Stack Developer*
+
+Building intelligent software through Artificial Intelligence, Cloud Computing, and modern Software Engineering.
 
 </div>
 
@@ -769,187 +879,366 @@ I believe that consistent development, meaningful documentation, and clean archi
 
 
 <!-- =============================================================== -->
-<!--             ENGINEERING PRINCIPLES & DEVELOPMENT                -->
+<!--                     FEATURED REPOSITORIES                       -->
 <!-- =============================================================== -->
 
+# ⭐ Featured Repositories
+
+These repositories showcase the technologies, engineering practices, and problem-solving approach that define my work.
+
 <div align="center">
 
-# 🏗 Engineering Principles
-
-> **"Great software isn't built by accident. It's designed with purpose."**
+| Repository | Description | Status |
+|------------|-------------|:------:|
+| 🌸 **FemCare AI** | AI-powered healthcare platform | 🚧 Active |
+| 📄 **ATS Resume Checker** | LLM & NLP-based ATS analysis | 🚧 Active |
+| 📱 **INTERACT** | AI-powered social media platform | 🚧 Active |
+| 🏭 **RINL Gate Pass System** | Enterprise workflow automation | ✅ Completed |
+| 📅 **Menstruation Tracker** | Mobile healthcare application | 🚧 Active |
 
 </div>
 
 ---
 
-# 💜 My Development Philosophy
+# 📚 Currently Reading
 
-Software engineering is more than writing functional code.
-
-My focus is on building applications that are:
-
-- 🚀 Scalable
-- 🔒 Secure
-- ⚡ High Performance
-- 📚 Well Documented
-- 🧩 Modular
-- ♻️ Maintainable
-
-Every project is an opportunity to improve not only my technical skills but also my engineering mindset.
+- Clean Code — Robert C. Martin
+- Designing Data-Intensive Applications
+- System Design Interview
+- Hands-On Machine Learning
+- Grokking Algorithms
 
 ---
 
-# ⚙ Engineering Workflow
+# 🧠 Engineering Mindset
+
+> I believe software engineering is not only about writing code.
+
+It is about understanding problems, designing scalable systems, collaborating effectively, and delivering reliable software that creates value.
+
+---
+
+# 🚀 2026 Roadmap
+
+## Professional Goals
+
+- Secure a Full-Time Software Engineering role
+- Contribute to production-grade applications
+- Build impactful AI-powered products
+- Contribute to Open Source
+- Master Backend Development
+- Learn Advanced System Design
+- Strengthen Cloud Engineering Skills
+
+---
+
+# 📈 GitHub Goals
+
+- Build high-quality public repositories
+- Maintain consistent documentation
+- Follow clean architecture principles
+- Share practical engineering projects
+- Continuously improve code quality
+
+---
+
+# 🤝 Collaboration
+
+I enjoy collaborating on projects involving:
+
+- Artificial Intelligence
+- Machine Learning
+- Backend Development
+- Software Engineering
+- Full Stack Applications
+- Cloud Computing
+
+Feel free to reach out if you'd like to collaborate or discuss ideas.
+
+---
+
+# ☕ Fun Facts
+
+- 💜 I enjoy solving real-world problems through software.
+- 📚 I believe continuous learning is part of engineering.
+- 🌍 I enjoy building products with practical impact.
+- 🚀 Every project teaches me something new.
+
+---
 
 <div align="center">
 
+### Thanks for visiting!
+
+If you enjoyed exploring my profile, feel free to connect, collaborate, or explore my repositories.
+
+⭐ Have a great day!
+
+</div>
+
+
+<!-- =============================================================== -->
+<!--                DEVELOPER IDENTITY & OPEN SOURCE                 -->
+<!-- =============================================================== -->
+
+---
+
+# 🌟 Developer Identity
+
+I believe software engineering is a journey of continuous learning, thoughtful design, and solving meaningful problems.
+
+Every project I build is an opportunity to:
+
+- Design scalable software.
+- Improve problem-solving skills.
+- Learn modern technologies.
+- Write maintainable and reusable code.
+- Deliver value through technology.
+
+My long-term goal is to contribute to products that positively impact people's lives while continuously growing as a Software Engineer.
+
+---
+
+# 🚀 Open Source Vision
+
+Although I am currently focused on building strong personal projects, I plan to actively contribute to the open-source community.
+
+### Areas I'm Interested In
+
+- 🤖 Artificial Intelligence
+- ☁ Cloud Computing
+- 🌐 Backend Development
+- 📱 Flutter
+- 🐍 Python
+- ⚡ FastAPI
+- 📊 Data Science
+
+Future contributions will include:
+
+- Bug fixes
+- Documentation improvements
+- Feature development
+- Community collaboration
+
+---
+
+# 🧩 Engineering Values
+
+<div align="center">
+
+| Principle | Meaning |
+|-----------|---------|
+| 💡 Learn Continuously | Technology evolves every day. |
+| 🏗 Build with Purpose | Every project should solve a real problem. |
+| 🔍 Think Before Coding | Design first, implementation second. |
+| 🤝 Collaborate Openly | Great software is built by teams. |
+| 📚 Share Knowledge | Learning becomes stronger when shared. |
+| 🚀 Never Stop Improving | Every project is a chance to become better. |
+
+</div>
+
+---
+
+# 📈 Current Learning Roadmap
+
 ```text
-      💡 Idea
-         │
-         ▼
-   📑 Research
-         │
-         ▼
-   📝 Planning
-         │
-         ▼
- 🏗 Architecture Design
-         │
-         ▼
- 💻 Development
-         │
-         ▼
- 🧪 Testing
-         │
-         ▼
- 🚀 Deployment
-         │
-         ▼
- 📊 Monitoring
-         │
-         ▼
- 🔄 Continuous Improvement
+Artificial Intelligence
+█████████████████████████ 90%
+
+Software Engineering
+██████████████████████████ 95%
+
+Backend Development
+████████████████████████ 90%
+
+Cloud Computing
+███████████████████ 75%
+
+System Design
+█████████████████ 70%
+
+DevOps
+██████████████ 60%
+
+Open Source
+████████████ 55%
 ```
 
-</div>
-
 ---
 
-# 🏛 Software Architecture
-
-<div align="center">
+# 🗺 Career Roadmap
 
 ```text
-            Client
-
-              │
-
-              ▼
-
-     Frontend Application
-
-              │
-
-              ▼
-
-         REST API Layer
-
-              │
-
-              ▼
-
-     Business Logic Layer
-
-              │
-
-              ▼
-
-        Database Layer
-
-              │
-
-              ▼
-
-      Cloud Infrastructure
-```
-
-</div>
-
----
-
-# 🛠 Development Standards
-
-<div align="center">
-
-| Principle | My Approach |
-|:----------|:------------|
-| 🧹 Clean Code | Readable, reusable and maintainable code |
-| 📦 Modular Design | Independent components and services |
-| 📚 Documentation | Clear project documentation |
-| 🔒 Security | Authentication, validation & secure APIs |
-| ⚡ Performance | Optimized applications |
-| ☁ Scalability | Cloud-ready architecture |
-| 🧪 Testing | Validate features before deployment |
-| 🔄 Continuous Learning | Improve with every project |
-
-</div>
-
----
-
-# 📂 Standard Project Structure
-
-```text
-Project/
+2026
 │
-├── assets/
-├── docs/
-├── screenshots/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── services/
-│   ├── utils/
-│   └── models/
+├── Complete B.Tech
+├── Secure Full-Time Software Engineering Role
+├── Build Production-Level AI Applications
 │
-├── README.md
-├── LICENSE
-├── CHANGELOG.md
-├── CONTRIBUTING.md
-└── .github/
+2027
+│
+├── Contribute to Open Source
+├── Master System Design
+├── Strengthen Cloud & Backend Skills
+│
+2028+
+│
+├── Design Scalable AI Systems
+├── Lead Software Projects
+└── Mentor Aspiring Developers
 ```
 
 ---
 
-# 🔐 Security Practices
+# 💬 Favourite Quote
 
-- 🔑 Environment Variables
-- 🔒 Secure Authentication
-- 🛡 Input Validation
-- 🚫 Error Handling
-- 🔐 Password Hashing
-- 📦 Secure API Communication
-- 🗄 Database Protection
+> *"The best software is not the one with the most code, but the one that solves the right problem in the simplest way."*
 
 ---
-
-# 🧪 Quality Checklist
-
-Before publishing a project, I aim to ensure:
-
-- ✅ Clean folder structure
-- ✅ Consistent code formatting
-- ✅ Responsive user interface
-- ✅ Optimized performance
-- ✅ Complete documentation
-- ✅ Well-defined architecture
-- ✅ Stable functionality
-- ✅ Future scalability
-
----
-
-# 📈 Continuous Improvement Cycle
 
 <div align="center">
+
+### 💜 Building software with curiosity, purpose, and consistency.
+
+</div>
+
+---
+
+
+<!-- =============================================================== -->
+<!--              PROFESSIONAL GROWTH & COMMUNITY                    -->
+<!-- =============================================================== -->
+
+---
+
+# 🌍 Professional Growth
+
+I believe software engineering is a lifelong learning journey.
+
+Technology changes rapidly, and I continuously invest time in improving my technical knowledge, engineering mindset, and problem-solving abilities.
+
+My approach is simple:
+
+> **Learn → Build → Improve → Share → Repeat**
+
+Every project I develop helps me become a better engineer than I was yesterday.
+
+---
+
+# 📚 Knowledge Areas
+
+<div align="center">
+
+| Core Computer Science | Modern Technologies |
+|-----------------------|---------------------|
+| Data Structures & Algorithms | Artificial Intelligence |
+| Object-Oriented Programming | Machine Learning |
+| Operating Systems | Cloud Computing |
+| Database Management Systems | Backend Engineering |
+| Computer Networks | Full Stack Development |
+| Software Engineering | Large Language Models |
+
+</div>
+
+---
+
+# 🎯 Engineering Checklist
+
+- ✅ Write clean and maintainable code
+- ✅ Learn from code reviews
+- ✅ Document every major project
+- ✅ Design before implementation
+- ✅ Focus on scalable architecture
+- ✅ Keep improving problem-solving skills
+- ✅ Build practical software
+- ✅ Follow software engineering best practices
+
+---
+
+# 🌐 Areas of Interest
+
+### Artificial Intelligence
+
+Building intelligent applications that solve practical problems using AI and Machine Learning.
+
+---
+
+### Backend Engineering
+
+Designing scalable APIs, authentication systems, and cloud-ready backend services.
+
+---
+
+### Full Stack Development
+
+Developing responsive and user-friendly applications from frontend to backend.
+
+---
+
+### Cloud Computing
+
+Learning modern cloud technologies and deployment practices for scalable software.
+
+---
+
+# 📖 Learning Philosophy
+
+> "The best way to learn technology is by building something that people can actually use."
+
+I strongly believe in project-based learning.
+
+Every project teaches architecture, debugging, deployment, collaboration, and problem-solving in ways that tutorials never can.
+
+---
+
+# 🤝 Collaboration
+
+I'm always open to:
+
+- Open Source Contributions
+- Software Engineering Discussions
+- AI Projects
+- Backend Development
+- Student Collaborations
+- Technical Communities
+- Hackathons
+- Knowledge Sharing
+
+If you're working on something interesting, feel free to connect.
+
+---
+
+# 💼 What I'm Looking For
+
+I am currently interested in opportunities involving:
+
+- Software Engineering
+- Artificial Intelligence
+- Backend Development
+- Full Stack Development
+- Cloud Engineering
+- Graduate Software Roles
+
+---
+
+# 🧭 Engineering Principles
+
+<div align="center">
+
+| Principle | Description |
+|-----------|-------------|
+| 🎯 Purpose | Build software that solves real problems |
+| 📈 Growth | Learn continuously and stay curious |
+| ⚡ Quality | Prefer clean, maintainable code |
+| 🤝 Teamwork | Great products are built together |
+| 🛡 Reliability | Write software users can trust |
+| 🚀 Innovation | Explore new ideas with practical impact |
+
+</div>
+
+---
+
+# 📅 My Development Cycle
 
 ```text
 📖 Learn
@@ -979,25 +1268,24 @@ Before publishing a project, I aim to ensure:
 🔁 Repeat
 ```
 
-</div>
-
 ---
 
-# 💻 Engineering Mindset
+# ❤️ Beyond Coding
 
-I believe the best software engineers don't just solve today's problems.
+Outside of writing code, I enjoy:
 
-They build systems that remain understandable, maintainable, and adaptable for tomorrow.
-
-Every project I create is designed with long-term thinking, continuous improvement, and practical impact in mind.
+- Exploring emerging technologies
+- Reading about Software Engineering
+- Learning AI concepts
+- Building personal projects
+- Participating in hackathons
+- Improving developer productivity
 
 ---
 
 <div align="center">
 
-## 💜 Design with Purpose • Build with Quality • Improve Continuously
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:6D28D9,50:8B5CF6,100:C084FC&section=footer"/>
+## 💜 "Code with purpose. Learn with curiosity. Build with impact."
 
 </div>
 
@@ -1005,84 +1293,388 @@ Every project I create is designed with long-term thinking, continuous improveme
 
 
 <!-- =============================================================== -->
-<!--              OPEN SOURCE • COMMUNITY • GROWTH                   -->
+<!--              ENGINEERING STANDARDS & ARCHITECTURE               -->
 <!-- =============================================================== -->
 
+---
+
+# 🏗 Engineering Standards
+
+Every project I build follows a structured software engineering approach rather than simply focusing on writing code.
+
+My objective is to create software that is scalable, maintainable, secure, and easy to understand.
+
+---
+
+# 📐 Software Development Lifecycle
+
+```text
+Idea
+ │
+ ▼
+Research
+ │
+ ▼
+Planning
+ │
+ ▼
+System Design
+ │
+ ▼
+Development
+ │
+ ▼
+Testing
+ │
+ ▼
+Deployment
+ │
+ ▼
+Maintenance
+```
+
+---
+
+# 🏛 Software Architecture Philosophy
+
+I prefer designing applications using a modular architecture where every layer has a clear responsibility.
+
+```text
+Frontend
+      │
+      ▼
+REST API
+      │
+      ▼
+Business Logic
+      │
+      ▼
+Database
+      │
+      ▼
+Cloud Services
+```
+
+This approach improves:
+
+- Scalability
+- Maintainability
+- Reusability
+- Security
+- Performance
+
+---
+
+# 📂 Standard Project Structure
+
+```text
+Project/
+
+│
+
+├── docs/
+
+├── assets/
+
+├── screenshots/
+
+├── src/
+
+│   ├── components/
+
+│   ├── pages/
+
+│   ├── services/
+
+│   ├── utils/
+
+│   └── models/
+
+│
+
+├── README.md
+
+├── LICENSE
+
+├── CHANGELOG.md
+
+└── CONTRIBUTING.md
+```
+
+---
+
+# ⚙ Development Workflow
+
+```text
+Requirement
+
+↓
+
+Planning
+
+↓
+
+UI Design
+
+↓
+
+Backend Development
+
+↓
+
+Database Design
+
+↓
+
+Testing
+
+↓
+
+Deployment
+
+↓
+
+Documentation
+```
+
+---
+
+# 🔐 Security Principles
+
+I try to follow secure development practices such as:
+
+- Environment Variables
+- Input Validation
+- Authentication
+- Authorization
+- Password Hashing
+- Secure API Design
+- Error Handling
+- Database Security
+
+---
+
+# 🧪 Quality Assurance
+
+Before completing a project I try to ensure:
+
+- Clean Code
+- Readable Documentation
+- Organized Folder Structure
+- Consistent Naming
+- Responsive Design
+- Proper Error Handling
+- Optimized Performance
+
+---
+
+# 📊 Documentation Standards
+
+Every project should include:
+
+- Project Overview
+- Features
+- Tech Stack
+- Installation Guide
+- Folder Structure
+- Architecture Diagram
+- Future Roadmap
+- License
+
+---
+
+# 🚀 Deployment Checklist
+
+Before deployment I verify:
+
+- Application Builds Successfully
+- Environment Variables Configured
+- Database Connected
+- API Endpoints Tested
+- Documentation Updated
+- Screenshots Added
+- README Completed
+
+---
+
+# 💻 Coding Principles
+
+```text
+✔ Readable Code
+
+✔ Reusable Components
+
+✔ Modular Design
+
+✔ Simplicity First
+
+✔ Performance Focus
+
+✔ Security Awareness
+
+✔ Continuous Refactoring
+```
+
+---
+
+# 🧠 Problem Solving Process
+
+```text
+Understand
+
+↓
+
+Analyze
+
+↓
+
+Design
+
+↓
+
+Implement
+
+↓
+
+Test
+
+↓
+
+Optimize
+
+↓
+
+Document
+```
+
+---
+
+# 📖 Engineering Mindset
+
+I believe that writing code is only one part of software engineering.
+
+Understanding user requirements, designing maintainable systems, documenting solutions, testing thoroughly, and continuously improving are equally important aspects of building reliable software.
+
+---
+
 <div align="center">
 
-# 🌍 Beyond the Code
-
-*"Technology grows through collaboration, curiosity, and continuous learning."*
+## 💜 "Good engineers don't just write code. They design solutions."
 
 </div>
 
 ---
 
-# 🤝 Open Source Vision
 
-I believe open source is one of the most impactful ways to learn, collaborate, and contribute to the software engineering community.
-
-While I continue building strong personal and academic projects, my long-term goal is to actively contribute to production-grade open-source software.
-
-I look forward to contributing through:
-
-- 🐛 Bug Fixes
-- ✨ Feature Development
-- 📚 Documentation Improvements
-- 🔍 Code Reviews
-- 💡 Community Discussions
+<!-- =============================================================== -->
+<!--               PERSONAL ENGINEERING MANIFESTO                    -->
+<!-- =============================================================== -->
 
 ---
 
-# 🚀 Areas of Interest
+# 🌍 Mission
+
+My mission is to build software that creates meaningful value for people by combining technology, innovation, and practical problem-solving.
+
+I aspire to contribute to products that improve lives, simplify complex processes, and make technology more accessible.
+
+---
+
+# 🚀 Vision
+
+To grow into a Software Engineer capable of designing intelligent, scalable, and reliable systems that positively impact millions of users.
+
+I aim to continuously evolve through learning, collaboration, and real-world engineering challenges.
+
+---
+
+# 💜 What Drives Me
+
+I enjoy building software because every project presents a new challenge.
+
+Whether it's developing an AI application, designing a backend system, or creating a mobile experience, I enjoy transforming ideas into working products.
+
+The satisfaction of solving a problem through technology is what motivates me to keep learning.
+
+---
+
+# 💡 Core Values
 
 <div align="center">
 
-| Domain | Current Focus |
-|:-------|:--------------|
-| 🤖 Artificial Intelligence | LLM Applications • AI Agents • Machine Learning |
-| ⚙ Backend Engineering | FastAPI • REST APIs • Authentication |
-| 🌐 Full Stack Development | Modern Web & Mobile Applications |
-| ☁ Cloud Computing | AWS • Deployment • Scalable Infrastructure |
-| 📊 Data Analytics | Visualization • Insights • Automation |
-| 🏗 Software Engineering | Clean Architecture • System Design |
+| Value | What It Means |
+|--------|---------------|
+| Integrity | Build honestly and responsibly |
+| Curiosity | Never stop learning |
+| Consistency | Improve every day |
+| Simplicity | Prefer simple, maintainable solutions |
+| Quality | Focus on reliable software |
+| Collaboration | Great software is built together |
 
 </div>
 
 ---
 
-# 📖 Current Learning Journey
+# 🧠 My Engineering Mindset
 
-Technology evolves rapidly, and I believe learning should never stop.
+When approaching a problem, I try to think beyond writing code.
 
-I'm currently investing time in:
+I ask myself:
 
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- Backend Engineering
-- Cloud Computing
-- System Design
-- Software Architecture
-- Production-Ready Development
-- Open Source Practices
+- What problem am I solving?
+- Who will use this solution?
+- Can it scale in the future?
+- Is it maintainable?
+- Is it secure?
+- Can another developer easily understand it?
 
----
-
-# 📚 Recommended Reading
-
-Books and resources that inspire my engineering journey:
-
-- 📘 Clean Code
-- 📙 Designing Data-Intensive Applications
-- 📗 System Design Interview
-- 📕 Grokking Algorithms
-- 📒 Hands-On Machine Learning
+These questions help me write software that is not only functional but also sustainable.
 
 ---
 
-# 🌱 Growth Mindset
+# 📖 Learning Philosophy
 
-Every completed project teaches me something new.
+Technology evolves every day.
+
+Instead of trying to learn everything, I focus on understanding fundamentals, building practical projects, and applying new concepts through hands-on experience.
+
+For me, every completed project is another step toward becoming a better engineer.
+
+---
+
+# 🤝 Collaboration Philosophy
+
+I value respectful communication, knowledge sharing, and teamwork.
+
+I believe that the best ideas often emerge from collaboration, constructive feedback, and diverse perspectives.
+
+I'm always open to learning from experienced developers and contributing wherever I can.
+
+---
+
+# 🎯 Career Goals
+
+### Short-Term Goals
+
+- Graduate with strong software engineering fundamentals
+- Secure a Full-Time Software Engineering role
+- Build production-ready AI applications
+- Contribute to open-source projects
+
+---
+
+### Long-Term Goals
+
+- Design scalable software systems
+- Lead engineering teams
+- Mentor aspiring developers
+- Build products that create real-world impact
+
+---
+
+# 🌱 Continuous Improvement
+
+Every project I complete teaches me something new.
 
 Some improve my technical skills.
 
@@ -1090,226 +1682,27 @@ Some improve my communication.
 
 Some improve my engineering thinking.
 
-The goal is simple:
-
-> **Learn. Build. Improve. Repeat.**
-
----
-
-# 🌐 Collaboration
-
-I'm always happy to connect with:
-
-- Software Engineers
-- AI Engineers
-- Students
-- Open Source Contributors
-- Startup Teams
-- Technical Communities
-
-Whether it's discussing ideas, collaborating on projects, or sharing knowledge, I enjoy learning alongside others.
-
----
-
-# 🎯 Current Goals
-
-### Short-Term
-
-- 🎓 Graduate with strong engineering fundamentals
-- 💼 Secure a Full-Time Software Engineering role
-- 🚀 Build production-ready AI applications
-- 📱 Publish high-quality open-source projects
-
----
-
-### Long-Term
-
-- 🏗 Design scalable software systems
-- 🌍 Contribute to impactful products
-- 🤝 Mentor aspiring developers
-- ☁ Master Cloud & Distributed Systems
-- 🤖 Build intelligent AI-powered solutions
-
----
-
-# 💜 What I Value
-
-<div align="center">
-
-| Value | Meaning |
-|:------|:--------|
-| 💡 Curiosity | Never stop learning |
-| 🤝 Collaboration | Great software is built together |
-| 🎯 Purpose | Build solutions that matter |
-| 📚 Knowledge | Learn continuously |
-| ⚡ Consistency | Small progress every day |
-| 🚀 Innovation | Explore ideas with practical impact |
-
-</div>
-
----
-
-<div align="center">
-
-## 🌟 "Software engineering is a journey of continuous learning, thoughtful collaboration, and building solutions that make a difference."
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4C1D95,50:7C3AED,100:C084FC&section=footer"/>
-
-</div>
-
----
-
-
-<!-- =============================================================== -->
-<!--                 ENGINEERING MANIFESTO                           -->
-<!-- =============================================================== -->
-
-<div align="center">
-
-# 💜 Engineering Manifesto
-
-*"Building software is not just about writing code.
-It's about solving problems that matter."*
-
-</div>
-
----
-
-# 🌍 Mission
-
-My mission is to build software that is intelligent, scalable, reliable, and meaningful.
-
-I aspire to create technology that improves people's lives by combining Artificial Intelligence, Software Engineering, and thoughtful product design.
-
-Every project I build is intended to solve a real problem while helping me grow as an engineer.
-
----
-
-# 🚀 Vision
-
-To become a Software Engineer capable of designing and building large-scale systems that are used by thousands and eventually millions of people.
-
-I want to contribute to products where technology creates measurable impact through innovation, simplicity, and reliability.
-
----
-
-# 💡 Engineering Values
-
-<div align="center">
-
-| Principle | Description |
-|:----------|:------------|
-| 💜 Purpose | Every project should solve a meaningful problem. |
-| 📚 Learning | Stay curious and continuously improve. |
-| 🏗 Simplicity | Build systems that are easy to understand and maintain. |
-| 🤝 Collaboration | Great software is built by great teams. |
-| 🚀 Excellence | Focus on quality over quantity. |
-| 🌍 Impact | Technology should improve people's lives. |
-
-</div>
-
----
-
-# 🧠 How I Approach Problems
-
-Whenever I start a project, I usually ask myself five questions before writing any code.
-
-```text
-1. What problem am I solving?
-
-        ↓
-
-2. Who will use this solution?
-
-        ↓
-
-3. What is the simplest architecture?
-
-        ↓
-
-4. Will this scale in the future?
-
-        ↓
-
-5. Can another developer understand this code easily?
-```
-
-These questions help me focus on building software that is maintainable, scalable, and practical.
-
----
-
-# ⚡ Engineering Principles
-
-I try to follow these principles in every project I build:
-
-- Write clean, readable code.
-- Keep solutions simple whenever possible.
-- Design before implementation.
-- Prefer reusable components.
-- Document decisions clearly.
-- Optimize only after correctness.
-- Learn from feedback.
-- Improve continuously.
-
----
-
-# 📈 Definition of Success
-
-Success, for me, is not measured by the number of repositories.
-
-Instead, I value:
-
-- Building reliable software.
-- Solving meaningful problems.
-- Writing maintainable code.
-- Learning something new from every project.
-- Helping other developers grow.
-
----
-
-# 🌱 Growth Philosophy
-
-Technology changes every day.
-
-Instead of trying to know everything, I focus on understanding strong fundamentals and applying them consistently.
-
-I believe long-term growth comes from:
-
-- Curiosity
-- Discipline
-- Practical experience
-- Collaboration
-- Continuous improvement
-
----
-
-# 💼 Career Philosophy
-
-I enjoy working on products where engineering quality matters.
-
-My goal is to become the type of engineer who is trusted to solve difficult problems, write maintainable software, and contribute positively to every team I join.
+The important part is to never stop growing.
 
 ---
 
 # 💬 Personal Motto
 
-<div align="center">
+> **"Build with purpose. Learn with curiosity. Grow with consistency."**
 
-## "Build with Purpose.
+---
 
-## Learn with Curiosity.
+# 🙌 Beyond Technology
 
-## Grow with Consistency."
+Outside of software development, I enjoy exploring new technologies, learning through technical articles, participating in hackathons, and continuously improving my engineering mindset.
 
-</div>
+I believe growth comes from curiosity, consistency, and a willingness to keep learning.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4C1D95,50:7C3AED,100:C084FC&section=footer"/>
+## 💜 "The goal isn't just to become a better programmer. The goal is to become a better engineer."
 
 </div>
 
@@ -1317,305 +1710,131 @@ My goal is to become the type of engineer who is trusted to solve difficult prob
 
 
 <!-- =============================================================== -->
-<!--              PROFESSIONAL JOURNEY & ACHIEVEMENTS                -->
+<!--                    THE ROAD AHEAD                               -->
 <!-- =============================================================== -->
 
-<div align="center">
+---
 
-# 🏆 Professional Journey
+# 🚀 The Road Ahead
 
-*"Learning never stops. Every certification, internship, and project is another milestone in my engineering journey."*
+Software engineering is a journey of continuous improvement.
 
-</div>
+Every project completed opens the door to new ideas, better solutions, and greater challenges.
+
+This GitHub profile represents where I am today, but it is also a reflection of where I aim to go tomorrow.
 
 ---
 
-# 🎓 Education Timeline
-
-<div align="center">
-
-| Year | Milestone |
-|:----:|-----------|
-| 🎓 Present | B.Tech in Computer Science & Technology — NIST University |
-| 📘 Higher Secondary | Science Stream |
-| 📗 Secondary Education | Strong Academic Foundation |
-
-</div>
-
----
-
-# 💼 Professional Experience
-
-<div align="center">
-
-| Organization | Role | Domain |
-|:-------------|:----:|:-------|
-| 🏭 RINL – Visakhapatnam Steel Plant | IT & ERP Intern | Enterprise Software |
-| 📊 NIST University | Data Science & Data Analytics Intern | Artificial Intelligence |
-
-</div>
-
----
-
-# 📜 Professional Certifications
-
-<div align="center">
-
-| Category | Certification |
-|:---------|:--------------|
-| 🤖 Artificial Intelligence | AI Engineer |
-| 🤖 Artificial Intelligence | AI & Data Scientist |
-| ☁ Cloud Computing | AWS Solutions Architecture Job Simulation |
-| 💻 Software Engineering | Electronic Arts Software Engineering Job Simulation |
-| 📊 Data Analytics | Deloitte Data Analytics Job Simulation |
-| 📊 Data Analytics | Tata GenAI Powered Data Analytics |
-| 🗄 Database | Neo4j Certified Professional |
-| ☕ Programming | Java Professional Certification |
-
-</div>
-
----
-
-# 🏅 Achievements
-
-- 🥇 Academic Excellence
-- 🚀 Hackathon Participation
-- 💼 Brand Executive – LaunchEd Global
-- 📚 Multiple Professional Certifications
-- 🤖 AI Project Development
-- 🌐 Full Stack Development Experience
-- 🏗 Enterprise Software Experience
-
----
-
-# 📈 Learning Timeline
+# 🗺 Engineering Roadmap
 
 ```text
-Programming
-      │
-      ▼
-Software Development
-      │
-      ▼
-Backend Engineering
-      │
-      ▼
-Artificial Intelligence
-      │
-      ▼
-Cloud Computing
-      │
-      ▼
-System Design
-      │
-      ▼
-Production Engineering
+2026
+│
+├── Graduate with B.Tech in Computer Science & Technology
+├── Begin Professional Software Engineering Career
+├── Build Production-Ready AI Applications
+│
+2027
+│
+├── Master Backend Engineering
+├── Contribute to Open Source
+├── Improve System Design Skills
+│
+2028
+│
+├── Build Large-Scale Cloud Applications
+├── Explore Distributed Systems
+├── Mentor Junior Developers
+│
+2029
+│
+├── Design Intelligent Software Platforms
+├── Lead Engineering Projects
+├── Expand Open Source Contributions
+│
+2030+
+│
+├── Architect Scalable Systems
+├── Build Products with Global Impact
+└── Continue Learning, Building and Sharing
 ```
 
 ---
 
-# 🎯 Professional Highlights
+# 🌎 Looking Forward
+
+I am excited to continue learning, collaborating, and building software that creates meaningful impact.
+
+Whether it's Artificial Intelligence, Backend Engineering, Full Stack Development, or Cloud Computing, I look forward to solving real-world problems with technology.
+
+---
+
+# 🤝 Let's Connect
+
+If you are:
+
+- A recruiter looking for an enthusiastic Software Engineer
+- A developer interested in collaboration
+- A student who enjoys learning together
+- Someone passionate about Artificial Intelligence and Software Engineering
+
+I'd be happy to connect.
+
+---
+
+# 📬 Contact Information
 
 <div align="center">
 
-| Area | Highlights |
-|:-----|:-----------|
-| 💻 Development | AI • Backend • Full Stack • Mobile |
-| 📊 Analytics | Data Science • Visualization |
-| ☁ Cloud | AWS Fundamentals |
-| 🏗 Engineering | REST APIs • Architecture • Databases |
-| 🤝 Collaboration | Internship • Team Projects • Hackathons |
+| Platform | Link |
+|----------|------|
+| 📧 Email | **pattnaikashirbad4@gmail.com** |
+| 💼 LinkedIn | https://www.linkedin.com/in/ashirbad003/ |
+| 🌐 Portfolio | https://ash-tech.lovable.app |
+| 💻 GitHub | https://github.com/ashirbad003 |
 
 </div>
 
 ---
 
-# 📚 Learning Philosophy
+# 💙 Thank You
 
-I strongly believe that consistent learning creates long-term success.
+Thank you for taking the time to explore my GitHub portfolio.
 
-Instead of chasing every new technology, I focus on mastering fundamentals, building practical projects, and applying engineering principles to solve real-world problems.
+I appreciate every visitor, recruiter, collaborator, and fellow developer who stops by.
 
-Every internship, certification, and project contributes to that journey.
+I hope my projects reflect not only what I have built, but also my passion for learning, engineering, and continuous improvement.
+
+---
+
+# 🌟 Final Thoughts
+
+Technology continues to evolve, and so will this portfolio.
+
+Every repository, every project, and every contribution represents another step in my journey as a software engineer.
+
+The best projects are still ahead.
 
 ---
 
 <div align="center">
 
-## 🌟 "Progress is measured not by the number of certificates, but by the quality of solutions we build."
+# 💜 Ashirbad Pattnaik
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4C1D95,50:7C3AED,100:C084FC&section=footer"/>
+### Software Engineer • AI Engineer • Full Stack Developer
 
-</div>
-
----
-
-
-<!-- =============================================================== -->
-<!--              PROFESSIONAL NETWORK & CONTACT HUB                 -->
-<!-- =============================================================== -->
-
-<div align="center">
-
-# 🤝 Let's Build Something Meaningful Together
-
-*"The best opportunities begin with a simple conversation."*
-
-</div>
-
----
-
-# 💼 Open to Opportunities
-
-I am actively seeking opportunities where I can contribute, learn, and grow as a Software Engineer.
-
-I am currently open to:
-
-- 💻 Software Engineer
-- 🤖 AI Engineer
-- ⚙ Backend Developer
-- 🌐 Full Stack Developer
-- ☁ Cloud Engineer
-- 🎓 Graduate Software Engineer
-
----
-
-# 🤝 Collaboration
-
-I'm always interested in collaborating on projects involving:
-
-<div align="center">
-
-| 🤖 AI | ⚙ Backend | 🌐 Full Stack |
-|:----:|:----------:|:-------------:|
-| Machine Learning | REST APIs | Web Applications |
-| LLM Applications | FastAPI | Mobile Apps |
-| AI Agents | Authentication | Cloud Solutions |
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:pattnaikashirbad4@gmail.com">
-<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ashirbad003/">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://ash-tech.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ashirbad003">
-<img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 📄 Resume
-
-<div align="center">
-
-<a href="./Ashirbad_Pattnaik_Resume_2026.pdf">
-
-<img src="https://img.shields.io/badge/📄%20Download%20Resume-8B5CF6?style=for-the-badge"/>
-
-</a>
-
-</div>
-
----
-
-# 💬 Let's Connect If You Are
-
-- 👨‍💼 A Recruiter
-- 💻 A Software Engineer
-- 🤖 An AI Enthusiast
-- 🚀 A Startup Founder
-- 🎓 A Student Developer
-- 🌍 An Open Source Contributor
-
-I'd be happy to discuss ideas, collaborate on projects, or explore exciting opportunities.
-
----
-
-# 💜 Thank You
-
-Whether you explored one repository or my entire portfolio,
-
-**Thank you for taking the time to visit my GitHub profile.**
-
-Every project here reflects my dedication to continuous learning, practical engineering, and building software with purpose.
-
-I hope you enjoyed exploring my work as much as I enjoyed building it.
-
----
-
-<div align="center">
-
-## ⭐ Let's Connect • Collaborate • Create
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4C1D95,50:7C3AED,100:C084FC&section=footer"/>
-
-</div>
-
----
-
-
-<!-- =============================================================== -->
-<!--                    FINAL SIGNATURE                              -->
-<!-- =============================================================== -->
-
-<div align="center">
-
-<img width="100%" src="./assets/footer.svg"/>
-
-# 💜 Thanks for Visiting
-
-### Building software with curiosity, purpose, and consistency.
+**Engineering intelligent software through innovation, curiosity, and continuous learning.**
 
 <br>
 
-### Ashirbad Pattnaik
+⭐ Thank you for visiting my GitHub Profile.
 
-**Software Engineer • AI Engineer • Full Stack Developer**
-
-<br>
-
-<a href="./Ashirbad_Pattnaik_Resume_2026.pdf">
-<img src="https://img.shields.io/badge/📄%20Resume-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-<a href="https://ash-tech.lovable.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ashirbad003/">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-6D28D9?style=for-the-badge"/>
-</a>
-
-<a href="mailto:pattnaikashirbad4@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-5B21B6?style=for-the-badge"/>
-</a>
-
-<br><br>
-
----
-
-### ⭐ If you found my work interesting,
-
-### consider exploring my repositories or connecting with me.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:4C1D95,20:6D28D9,40:7C3AED,60:8B5CF6,80:A855F7,100:C084FC"/>
+Let's build something meaningful together.
 
 </div>
+
+---
+
+<!-- =============================================================== -->
+<!--                    END OF PORTFOLIO                              -->
+<!-- =============================================================== -->
