@@ -1,1 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<svg
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="1200"
+height="120"
+viewBox="0 0 1200 120">
+
+<defs>
+
+<linearGradient
+id="dividerGradient"
+x1="0%"
+y1="0%"
+x2="100%"
+y2="0%">
+
+<stop offset="0%" stop-color="#00000000"/>
+
+<stop offset="15%" stop-color="#6D28D9"/>
+
+<stop offset="35%" stop-color="#A855F7"/>
+
+<stop offset="50%" stop-color="#FFFFFF"/>
+
+<stop offset="65%" stop-color="#A855F7"/>
+
+<stop offset="85%" stop-color="#6D28D9"/>
+
+<stop offset="100%" stop-color="#00000000"/>
+
+</linearGradient>
+
+<filter id="glow">
+
+<feGaussianBlur
+stdDeviation="3"
+result="blur"/>
+
+<feMerge>
+
+<feMergeNode in="blur"/>
+
+<feMergeNode in="SourceGraphic"/>
+
+</feMerge>
+
+</filter>
+
+<radialGradient id="centerGlow">
+
+<stop offset="0%"
+stop-color="#C084FC"
+stop-opacity="1"/>
+
+<stop offset="100%"
+stop-color="#C084FC"
+stop-opacity="0"/>
+
+</radialGradient>
+
+</defs>
+
+<!-- Background Glow -->
+
+<ellipse
+cx="600"
+cy="60"
+rx="180"
+ry="18"
+fill="url(#centerGlow)"
+opacity=".25">
+
+<animate
+attributeName="rx"
+values="180;220;180"
+dur="6s"
+repeatCount="indefinite"/>
+
+</ellipse>
+
+<!-- Main Divider -->
+
+<line
+
+x1="80"
+y1="60"
+
+x2="1120"
+y2="60"
+
+stroke="url(#dividerGradient)"
+
+stroke-width="2.5"
+
+filter="url(#glow)">
+
+<animate
+
+attributeName="stroke-opacity"
+
+values=".35;1;.35"
+
+dur="4s"
+
+repeatCount="indefinite"/>
+
+</line>
+
+<!-- Left Circle -->
+
+<circle
+
+cx="80"
+
+cy="60"
+
+r="6"
+
+fill="#A855F7"
+
+filter="url(#glow)">
+
+<animate
+
+attributeName="r"
+
+values="6;8;6"
+
+dur="3s"
+
+repeatCount="indefinite"/>
+
+</circle>
+
+<!-- Right Circle -->
+
+<circle
+
+cx="1120"
+
+cy="60"
+
+r="6"
+
+fill="#A855F7"
+
+filter="url(#glow)">
+
+<animate
+
+attributeName="r"
+
+values="6;8;6"
+
+dur="3s"
+
+repeatCount="indefinite"/>
+
+</circle>
+
+<!-- Center Diamond -->
+
+<g>
+
+<rect
+
+x="592"
+
+y="52"
+
+width="16"
+
+height="16"
+
+rx="2"
+
+fill="#FFFFFF"
+
+transform="rotate(45 600 60)"
+
+filter="url(#glow)">
+
+<animateTransform
+
+attributeName="transform"
+
+type="rotate"
+
+values="
+45 600 60;
+405 600 60"
+
+dur="15s"
+
+repeatCount="indefinite"/>
+
+</rect>
+
+</g>
+
+<!-- Small Decorative Dots -->
+
+<g fill="#D8B4FE">
+
+<circle cx="450" cy="60" r="2">
+<animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="500" cy="60" r="2">
+<animate attributeName="opacity" values="1;.2;1" dur="2.5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="700" cy="60" r="2">
+<animate attributeName="opacity" values=".2;1;.2" dur="2.3s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="750" cy="60" r="2">
+<animate attributeName="opacity" values="1;.2;1" dur="2.8s" repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+</svg>
