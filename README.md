@@ -650,9 +650,9 @@ This GitHub profile represents my learning journey through software engineering,
 
 ## 📊 GitHub Statistics
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ashirbad003&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+</img height="175" src="https://github-readme-stats.vercel.app/api?username=ashirbad003&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashirbad003&layout=compact&theme=midnight-purple&hide_border=true"/>
+</img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashirbad003&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
