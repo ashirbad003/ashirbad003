@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="1600"
+    height="500"
+    viewBox="0 0 1600 500"
+    preserveAspectRatio="xMidYMid slice">
+
+<defs>
+
+<!-- ========================================================= -->
+<!-- BACKGROUND -->
+<!-- ========================================================= -->
+
+<linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+
+<stop offset="0%" stop-color="#05030F">
+<animate attributeName="stop-color"
+values="#05030F;#150024;#05030F"
+dur="18s"
+repeatCount="indefinite"/>
+</stop>
+
+<stop offset="35%" stop-color="#1D0938">
+<animate attributeName="stop-color"
+values="#1D0938;#2E1065;#1D0938"
+dur="20s"
+repeatCount="indefinite"/>
+</stop>
+
+<stop offset="70%" stop-color="#3B0764">
+<animate attributeName="stop-color"
+values="#3B0764;#6D28D9;#3B0764"
+dur="22s"
+repeatCount="indefinite"/>
+</stop>
+
+<stop offset="100%" stop-color="#090014">
+<animate attributeName="stop-color"
+values="#090014;#1E1B4B;#090014"
+dur="18s"
+repeatCount="indefinite"/>
+</stop>
+
+</linearGradient>
+
+<!-- ========================================================= -->
+<!-- TITLE GRADIENT -->
+<!-- ========================================================= -->
+
+<linearGradient id="titleGradient"
+x1="0%"
+y1="0%"
+x2="100%"
+y2="0%">
+
+<stop offset="0%" stop-color="#FFFFFF"/>
+
+<stop offset="35%" stop-color="#D8B4FE"/>
+
+<stop offset="65%" stop-color="#A855F7"/>
+
+<stop offset="100%" stop-color="#818CF8"/>
+
+</linearGradient>
+
+<!-- ========================================================= -->
+<!-- GLASS -->
+<!-- ========================================================= -->
+
+<linearGradient id="glassGradient"
+x1="0%"
+y1="0%"
+x2="0%"
+y2="100%">
+
+<stop offset="0%"
+stop-color="#FFFFFF22"/>
+
+<stop offset="100%"
+stop-color="#FFFFFF05"/>
+
+</linearGradient>
+
+<!-- ========================================================= -->
+<!-- GRID -->
+<!-- ========================================================= -->
+
+<pattern
+id="grid"
+width="60"
+height="60"
+patternUnits="userSpaceOnUse">
+
+<path
+d="M60 0L0 0 0 60"
+fill="none"
+stroke="#FFFFFF08"
+stroke-width="1"/>
+
+</pattern>
+
+<!-- ========================================================= -->
+<!-- GLOW -->
+<!-- ========================================================= -->
+
+<filter id="glow"
+x="-100%"
+y="-100%"
+width="300%"
+height="300%">
+
+<feGaussianBlur
+stdDeviation="8"
+result="blur"/>
+
+<feMerge>
+
+<feMergeNode in="blur"/>
+
+<feMergeNode in="SourceGraphic"/>
+
+</feMerge>
+
+</filter>
+
+<!-- ========================================================= -->
+<!-- SOFT GLOW -->
+<!-- ========================================================= -->
+
+<filter id="softGlow">
+
+<feGaussianBlur
+stdDeviation="25"
+result="coloredBlur"/>
+
+<feMerge>
+
+<feMergeNode in="coloredBlur"/>
+
+<feMergeNode in="SourceGraphic"/>
+
+</feMerge>
+
+</filter>
+
+<!-- ========================================================= -->
+<!-- SHADOW -->
+<!-- ========================================================= -->
+
+<filter id="shadow">
+
+<feDropShadow
+dx="0"
+dy="0"
+stdDeviation="15"
+flood-color="#7C3AED"
+flood-opacity=".45"/>
+
+</filter>
+
+<!-- ========================================================= -->
+<!-- AURORA -->
+<!-- ========================================================= -->
+
+<radialGradient id="auroraOne">
+
+<stop offset="0%"
+stop-color="#7C3AED"
+stop-opacity=".75"/>
+
+<stop offset="100%"
+stop-color="#7C3AED"
+stop-opacity="0"/>
+
+</radialGradient>
+
+<radialGradient id="auroraTwo">
+
+<stop offset="0%"
+stop-color="#A855F7"
+stop-opacity=".65"/>
+
+<stop offset="100%"
+stop-color="#A855F7"
+stop-opacity="0"/>
+
+</radialGradient>
+
+<radialGradient id="auroraThree">
+
+<stop offset="0%"
+stop-color="#818CF8"
+stop-opacity=".60"/>
+
+<stop offset="100%"
+stop-color="#818CF8"
+stop-opacity="0"/>
+
+</radialGradient>
+
+</defs>
+
+<!-- ========================================================= -->
+<!-- MAIN BACKGROUND -->
+<!-- ========================================================= -->
+
+<rect
+width="1600"
+height="500"
+fill="url(#bgGradient)"/>
+
+<!-- ========================================================= -->
+<!-- GRID -->
+<!-- ========================================================= -->
+
+<rect
+width="1600"
+height="500"
+fill="url(#grid)"
+opacity=".35"/>
+
+<!-- ========================================================= -->
+<!-- AURORA 1 -->
+<!-- ========================================================= -->
+
+<circle
+cx="250"
+cy="120"
+r="250"
+fill="url(#auroraOne)"
+filter="url(#softGlow)">
+
+<animate
+attributeName="cx"
+values="250;380;250"
+dur="18s"
+repeatCount="indefinite"/>
+
+<animate
+attributeName="cy"
+values="120;80;120"
+dur="20s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<!-- ========================================================= -->
+<!-- AURORA 2 -->
+<!-- ========================================================= -->
+
+<circle
+cx="1320"
+cy="80"
+r="260"
+fill="url(#auroraTwo)"
+filter="url(#softGlow)">
+
+<animate
+attributeName="cx"
+values="1320;1200;1320"
+dur="21s"
+repeatCount="indefinite"/>
+
+<animate
+attributeName="cy"
+values="80;150;80"
+dur="17s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<!-- ========================================================= -->
+<!-- AURORA 3 -->
+<!-- ========================================================= -->
+
+<circle
+cx="820"
+cy="40"
+r="220"
+fill="url(#auroraThree)"
+filter="url(#softGlow)">
+
+<animate
+attributeName="cx"
+values="820;920;820"
+dur="16s"
+repeatCount="indefinite"/>
+
+<animate
+attributeName="cy"
+values="40;90;40"
+dur="15s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<!-- ========================================================= -->
+<!-- FLOATING PARTICLES -->
+<!-- ========================================================= -->
+
+<g id="particles" opacity=".75">
+
+<circle cx="120" cy="80" r="2" fill="#FFFFFF">
+<animate attributeName="cy" values="80;55;80" dur="5s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".2;1;.2" dur="5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="260" cy="220" r="3" fill="#C084FC">
+<animate attributeName="cy" values="220;185;220" dur="7s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="420" cy="130" r="2" fill="#E9D5FF">
+<animate attributeName="cy" values="130;90;130" dur="6s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="580" cy="260" r="2.5" fill="#A855F7">
+<animate attributeName="cy" values="260;220;260" dur="9s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="740" cy="70" r="2" fill="#FFFFFF">
+<animate attributeName="cy" values="70;40;70" dur="8s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="910" cy="180" r="3" fill="#D8B4FE">
+<animate attributeName="cy" values="180;140;180" dur="6s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1080" cy="90" r="2" fill="#FFFFFF">
+<animate attributeName="cy" values="90;50;90" dur="8s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1260" cy="250" r="2.5" fill="#C084FC">
+<animate attributeName="cy" values="250;210;250" dur="10s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1430" cy="130" r="2" fill="#FFFFFF">
+<animate attributeName="cy" values="130;90;130" dur="7s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1540" cy="60" r="3" fill="#A855F7">
+<animate attributeName="cy" values="60;20;60" dur="9s" repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+<!-- ======================= PART 1 END ======================= -->
+
+
+
+  <!-- ========================================================= -->
+<!-- GLASSMORPHISM PANEL -->
+<!-- ========================================================= -->
+
+<g id="glass-panel">
+
+<rect
+x="170"
+y="95"
+width="1260"
+height="240"
+rx="32"
+fill="url(#glassGradient)"
+stroke="#FFFFFF18"
+stroke-width="1.5"
+filter="url(#shadow)"/>
+
+<rect
+x="170"
+y="95"
+width="1260"
+height="240"
+rx="32"
+fill="none"
+stroke="#FFFFFF08"/>
+
+</g>
+
+<!-- ========================================================= -->
+<!-- ANIMATED WAVES -->
+<!-- ========================================================= -->
+
+<g opacity=".30">
+
+<path
+fill="none"
+stroke="#A855F7"
+stroke-width="2"
+
+d="M0 380
+C220 330
+420 430
+650 380
+S1080 330
+1600 380">
+
+<animate
+attributeName="d"
+
+dur="12s"
+
+repeatCount="indefinite"
+
+values="
+M0 380 C220 330 420 430 650 380 S1080 330 1600 380;
+
+M0 390 C240 430 430 320 650 390 S1100 430 1600 390;
+
+M0 380 C220 330 420 430 650 380 S1080 330 1600 380
+"/>
+
+</path>
+
+<path
+fill="none"
+stroke="#7C3AED"
+stroke-width="1.4"
+
+d="M0 410
+C180 370
+420 450
+690 400
+S1180 360
+1600 410">
+
+<animate
+attributeName="d"
+
+dur="16s"
+
+repeatCount="indefinite"
+
+values="
+M0 410 C180 370 420 450 690 400 S1180 360 1600 410;
+
+M0 420 C200 460 430 360 690 420 S1180 460 1600 420;
+
+M0 410 C180 370 420 450 690 400 S1180 360 1600 410
+"/>
+
+</path>
+
+</g>
+
+<!-- ========================================================= -->
+<!-- DECORATIVE RINGS -->
+<!-- ========================================================= -->
+
+<g opacity=".20">
+
+<circle
+cx="210"
+cy="120"
+r="45"
+stroke="#A855F7"
+stroke-width="1.5"
+fill="none">
+
+<animateTransform
+attributeName="transform"
+type="rotate"
+from="0 210 120"
+to="360 210 120"
+dur="30s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<circle
+cx="1380"
+cy="300"
+r="60"
+stroke="#C084FC"
+stroke-width="1.2"
+fill="none">
+
+<animateTransform
+attributeName="transform"
+type="rotate"
+from="360 1380 300"
+to="0 1380 300"
+dur="28s"
+repeatCount="indefinite"/>
+
+</circle>
+
+</g>
+
+<!-- ========================================================= -->
+<!-- AI CONNECTION LINES -->
+<!-- ========================================================= -->
+
+<g
+stroke="#C084FC"
+stroke-width="1"
+opacity=".22">
+
+<line x1="260" y1="140" x2="360" y2="200"/>
+<line x1="360" y1="200" x2="470" y2="120"/>
+<line x1="470" y1="120" x2="620" y2="170"/>
+<line x1="620" y1="170" x2="760" y2="120"/>
+<line x1="760" y1="120" x2="910" y2="170"/>
+<line x1="910" y1="170" x2="1080" y2="120"/>
+<line x1="1080" y1="120" x2="1240" y2="200"/>
+
+</g>
+
+<!-- ========================================================= -->
+<!-- AI NODES -->
+<!-- ========================================================= -->
+
+<g fill="#FFFFFF">
+
+<circle cx="260" cy="140" r="3"/>
+<circle cx="360" cy="200" r="3"/>
+<circle cx="470" cy="120" r="3"/>
+<circle cx="620" cy="170" r="3"/>
+<circle cx="760" cy="120" r="3"/>
+<circle cx="910" cy="170" r="3"/>
+<circle cx="1080" cy="120" r="3"/>
+<circle cx="1240" cy="200" r="3"/>
+
+</g>
+
+<!-- ========================================================= -->
+<!-- NAME -->
+<!-- ========================================================= -->
+
+<text
+
+x="800"
+
+y="185"
+
+text-anchor="middle"
+
+font-family="Inter,Segoe UI,Arial"
+
+font-size="62"
+
+font-weight="700"
+
+fill="url(#titleGradient)"
+
+filter="url(#glow)">
+
+Ashirbad Pattnaik
+
+</text>
+
+<!-- ========================================================= -->
+<!-- SUBTITLE -->
+<!-- ========================================================= -->
+
+<text
+
+x="800"
+
+y="230"
+
+text-anchor="middle"
+
+font-family="Inter,Segoe UI,Arial"
+
+font-size="24"
+
+letter-spacing="1"
+
+fill="#F8FAFC">
+
+Software Engineer • AI Engineer • Full Stack Developer
+
+</text>
+
+<!-- ========================================================= -->
+<!-- TAGLINE -->
+<!-- ========================================================= -->
+
+<text
+
+x="800"
+
+y="270"
+
+text-anchor="middle"
+
+font-family="Inter,Segoe UI,Arial"
+
+font-size="18"
+
+fill="#D8B4FE">
+
+Turning ideas into scalable software with AI and full-stack engineering.
+
+</text>
+
+<!-- ========================================================= -->
+<!-- FLOATING CODE SYMBOLS -->
+<!-- ========================================================= -->
+
+<g
+font-family="JetBrains Mono,Consolas,monospace"
+font-size="18"
+fill="#FFFFFF18">
+
+<text x="120" y="420">&lt;/&gt;</text>
+
+<text x="1410" y="120">{ }</text>
+
+<text x="1350" y="430">AI</text>
+
+<text x="260" y="90">0101</text>
+
+<text x="1240" y="80">&lt;ML/&gt;</text>
+
+</g>
+
+<!-- ======================= PART 2 END ======================= -->
+
+
+  <!-- ========================================================= -->
+<!-- ANIMATED GLOW ORBS -->
+<!-- ========================================================= -->
+
+<g opacity=".22">
+
+<circle cx="250" cy="430" r="70" fill="#7C3AED" filter="url(#softGlow)">
+<animate attributeName="r" values="70;82;70" dur="10s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".10;.30;.10" dur="10s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1360" cy="70" r="55" fill="#A855F7" filter="url(#softGlow)">
+<animate attributeName="r" values="55;70;55" dur="8s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".15;.35;.15" dur="8s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="800" cy="455" r="95" fill="#6366F1" filter="url(#softGlow)">
+<animate attributeName="r" values="95;110;95" dur="12s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".08;.20;.08" dur="12s" repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+<!-- ========================================================= -->
+<!-- SCANNING LINE -->
+<!-- ========================================================= -->
+
+<rect
+x="0"
+y="0"
+width="1600"
+height="2"
+fill="#C084FC"
+opacity=".20">
+
+<animate
+attributeName="y"
+values="-2;500;-2"
+dur="9s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<!-- ========================================================= -->
+<!-- CORNER ACCENTS -->
+<!-- ========================================================= -->
+
+<g stroke="#A855F7" stroke-width="2" opacity=".45">
+
+<path d="M45 45H105"/>
+<path d="M45 45V105"/>
+
+<path d="M1555 45H1495"/>
+<path d="M1555 45V105"/>
+
+<path d="M45 455H105"/>
+<path d="M45 455V395"/>
+
+<path d="M1555 455H1495"/>
+<path d="M1555 455V395"/>
+
+</g>
+
+<!-- ========================================================= -->
+<!-- BOTTOM GLOW -->
+<!-- ========================================================= -->
+
+<rect
+x="0"
+y="465"
+width="1600"
+height="35"
+fill="#7C3AED"
+opacity=".08">
+
+<animate
+attributeName="opacity"
+values=".04;.14;.04"
+dur="8s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<!-- ========================================================= -->
+<!-- LIGHT SWEEP -->
+<!-- ========================================================= -->
+
+<rect
+x="-500"
+y="0"
+width="250"
+height="500"
+fill="#FFFFFF08"
+transform="rotate(-20 0 0)">
+
+<animate
+attributeName="x"
+values="-700;2200"
+dur="10s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<!-- ========================================================= -->
+<!-- TITLE PULSE -->
+<!-- ========================================================= -->
+
+<animate
+xlink:href="#particles"
+attributeName="opacity"
+values=".55;.95;.55"
+dur="6s"
+repeatCount="indefinite"/>
+
+<!-- ========================================================= -->
+<!-- SUBTLE BORDER -->
+<!-- ========================================================= -->
+
+<rect
+x="2"
+y="2"
+width="1596"
+height="496"
+rx="16"
+fill="none"
+stroke="#FFFFFF10"
+stroke-width="1"/>
+
+<!-- ========================================================= -->
+<!-- RESPONSIVE DESCRIPTION -->
+<!-- ========================================================= -->
+
+<desc>
+Premium animated GitHub hero banner for Ashirbad Pattnaik.
+Theme: Luxury Purple, AI, Software Engineering, Full Stack Development.
+Optimized for GitHub profile repositories.
+</desc>
+
+<title>
+Ashirbad Pattnaik | Software Engineer • AI Engineer • Full Stack Developer
+</title>
+
+</svg>
+
+
