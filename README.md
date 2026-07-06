@@ -725,6 +725,16 @@ This GitHub profile represents my learning journey through software engineering,
 </div>
 
 ---
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ashirbad003&theme=discord&no-frame=true&no-bg=true&row=2&column=4"/>
+</p>
+
+<p align="center">
+<img src="./assets/divider.svg" width="100%">
+</p>
+
 
 # 🚀 Current Focus
 
@@ -1049,6 +1059,16 @@ I'm always interested in collaborating on projects related to:
 Whether it's discussing ideas, building software, contributing to open source, or exploring new technologies, I'm always happy to connect with fellow developers and professionals.
 
 ---
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashirbad003&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="./assets/divider.svg" width="100%">
+</p>
+
 
 # 📬 Contact Information
 
@@ -1095,3 +1115,12 @@ GitHub:
 *Software Engineer • AI Engineer • Full Stack Developer*
 
 </div>
+
+
+## 💭 Quote
+
+> *"Great software is not built by writing more code. It's built by solving the right problems with clean engineering."*
+
+<p align="center">
+<img src="./assets/divider.svg" width="100%">
+</p>
