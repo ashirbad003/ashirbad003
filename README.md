@@ -660,7 +660,7 @@ This GitHub profile represents my learning journey through software engineering,
 
 ## 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=ashirbad003&theme=midnight-purple&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ashirbad003&theme=midnight-purple&hide_border=true" />
 
 </div>
 
