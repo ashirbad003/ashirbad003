@@ -656,11 +656,9 @@ This GitHub profile represents my learning journey through software engineering,
 
 ---
 
-<div align="center">
-
 ## 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=ashirbad003&theme=midnight-purple&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ashirbad003&theme=midnight-purple&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
 
 </div>
 
@@ -678,7 +676,7 @@ This GitHub profile represents my learning journey through software engineering,
 
 <div align="center">
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=ashirbad003&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
@@ -696,7 +694,7 @@ This GitHub profile represents my learning journey through software engineering,
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashirbad003/ashirbad003/output/github-contribution-grid-snake.svg"/>
 
-<img src="https://raw.githubusercontent.com/ashirbad003/ashirbad003/output/github-contribution-grid-snake-dark.svg"/>
+<img alt="Contribution Snake" src="https://raw.githubusercontent.com/ashirbad003/ashirbad003/output/github-contribution-grid-snake-dark.svg"/>
 
 </picture>
 
@@ -705,6 +703,28 @@ This GitHub profile represents my learning journey through software engineering,
 ---
 
 <div align="center">
+
+## 📊 Developer Metrics
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashirbad003&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashirbad003&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashirbad003&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashirbad003&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashirbad003&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+<p align="center">
+<img src="./assets/divider.svg" width="100%">
+</p>
 
 ## 📊 Developer Metrics
 
