@@ -669,7 +669,7 @@ This GitHub profile represents my learning journey through software engineering,
 <br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashirbad003&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashirbad003&theme=tokyonight&utcOffset=5.5"/>
+
 
 </div>
 
