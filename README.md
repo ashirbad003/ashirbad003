@@ -403,7 +403,7 @@ Development:
 
 # 🌸 FemCare AI
 
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+<img src="[https://img.shields.io/badge/Status-Active-success?style=for-the-badge](https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge)"/>
 
 ### 📝 Overview
 
@@ -461,7 +461,7 @@ Flutter App
 
 # 📄 ATS Resume Checker
 
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+<img src="[https://img.shields.io/badge/Status-Active-success?style=for-the-badge](https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge)"/>
 
 ### 📝 Overview
 
@@ -506,7 +506,7 @@ An AI-powered ATS Resume Analyzer that evaluates resumes, extracts technical ski
 
 # 📱 INTERACT
 
-<img src="https://img.shields.io/badge/Status-In%20Development-8B5CF6?style=for-the-badge"/>
+<img src="[https://img.shields.io/badge/Status-In%20Development-8B5CF6?style=for-the-badge](https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge)"/>
 
 ### 📝 Overview
 
