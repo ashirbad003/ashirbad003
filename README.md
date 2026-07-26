@@ -5,7 +5,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,26&height=220&section=header&text=Ashirbad%20Pattnaik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20"/>
+<!-- Cinematic "opening sequence" banner — dark-to-neon gradient, venom cut style -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:302B63,100:24243e&height=260&section=header&text=ASHIRBAD%20PATTNAIK&fontSize=60&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=%3C%3C%20SOFTWARE%20ENGINEER%20%E2%9C%A6%20AI%20ENGINEER%20%E2%9C%A6%20FULL%20STACK%20DEV%20%3E%3E&descAlignY=58&descSize=18&descColor=FF2E92"/>
+
+<br>
+
+<!-- dramatic sci-fi title card style typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=2800&pause=1000&color=00F5FF&background=00000000&center=true&vCenter=true&width=950&lines=SYSTEM+ONLINE...;LOADING+PROFILE...;ASHIRBAD+PATTNAIK;ENGINEER+%7C+BUILDER+%7C+CREATOR"/>
 
 <br>
 
@@ -15,6 +21,10 @@
 
 <!-- subtle 3D shadow effect made by layering a second dimmer typing line underneath -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=3500&pause=1200&color=6D28D9&center=true&vCenter=true&width=950&lines=%E2%9A%A1+Turning+Ideas+Into+Intelligent+Software+%E2%9A%A1"/>
+
+<br>
+
+<img width="60%" src="https://capsule-render.vercel.app/api?type=slice&color=0:FF2E92,100:00F5FF&height=3&section=header"/>
 
 <br><br>
 
@@ -348,11 +358,15 @@ Focused on strengthening algorithmic thinking and problem-solving through intens
 
 # 🥇 Achievements
 
-- 🥇 Matric Super Topper
-- 🏅 UTSE Merit Certificate
-- 🏅 Bajaj Capital Certificate of Appreciation
-- 🚀 Trithon Hackathon Participant
-- 💼 Brand Executive – LaunchEd Global
+<div align="center">
+
+![Achievement](https://img.shields.io/badge/🏆_ACHIEVEMENT_UNLOCKED-Matric%20Super%20Topper-0F0C29?style=for-the-badge&labelColor=000000&color=FFD700)
+![Achievement](https://img.shields.io/badge/🏅_ACHIEVEMENT_UNLOCKED-UTSE%20Merit%20Certificate-0F0C29?style=for-the-badge&labelColor=000000&color=00F5FF)
+![Achievement](https://img.shields.io/badge/🏅_ACHIEVEMENT_UNLOCKED-Bajaj%20Capital%20Appreciation-0F0C29?style=for-the-badge&labelColor=000000&color=FF2E92)
+![Achievement](https://img.shields.io/badge/🚀_ACHIEVEMENT_UNLOCKED-Trithon%20Hackathon-0F0C29?style=for-the-badge&labelColor=000000&color=9D4EDD)
+![Achievement](https://img.shields.io/badge/💼_ACHIEVEMENT_UNLOCKED-Brand%20Executive%20%40%20LaunchEd-0F0C29?style=for-the-badge&labelColor=000000&color=6D28D9)
+
+</div>
 
 ---
 
@@ -632,9 +646,11 @@ This GitHub profile represents my learning journey through software engineering,
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=%E2%9A%94%EF%B8%8F+PLAYER+STATS+%E2%9A%94%EF%B8%8F"/>
+
 ## 🏆 Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashirbad003&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashirbad003&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
 
 </div>
 
@@ -1052,6 +1068,13 @@ GitHub:
 
 > *"Great software is not built by writing more code. It's built by solving the right problems with clean engineering."*
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,26&height=120&section=footer"/>
-</p>
+<br>
+
+<div align="center">
+
+<!-- credits-roll style closing sequence -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=900&color=FF2E92&center=true&vCenter=true&width=900&lines=%3C%3C+END+OF+TRANSMISSION+%3E%3E;THANK+YOU+FOR+WATCHING;TO+BE+CONTINUED...+%F0%9F%9A%80"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302B63,100:0F0C29&height=140&section=footer&animation=twinkling"/>
+
+</div>
