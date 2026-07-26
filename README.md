@@ -641,15 +641,7 @@ This GitHub profile represents my learning journey through software engineering,
 
 <div align="center">
 
-## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashirbad003&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## 🐍 Contribution Snake
 
