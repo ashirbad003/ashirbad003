@@ -403,7 +403,7 @@ Development:
 
 # 🌸 FemCare AI
 
-<img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge)"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 
 ### 📝 Overview
 
@@ -461,7 +461,7 @@ Flutter App
 
 # 📄 ATS Resume Checker
 
-<img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge)"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 
 ### 📝 Overview
 
@@ -506,7 +506,7 @@ An AI-powered ATS Resume Analyzer that evaluates resumes, extracts technical ski
 
 # 📱 INTERACT
 
-<img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge)"/>
+<img src="https://img.shields.io/badge/Status-In%20Development-8B5CF6?style=for-the-badge"/>
 
 ### 📝 Overview
 
@@ -641,7 +641,15 @@ This GitHub profile represents my learning journey through software engineering,
 
 <div align="center">
 
+## 🏆 GitHub Trophies
 
+<img src="https://github-profile-trophy.vercel.app/?username=ashirbad003&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+<div align="center">
 
 ## 🐍 Contribution Snake
 
@@ -659,19 +667,29 @@ This GitHub profile represents my learning journey through software engineering,
 
 ## 📊 Developer Metrics
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashirbad003&theme=tokyonight"/>
+<img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashirbad003&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashirbad003&theme=tokyonight"/>
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashirbad003&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashirbad003&theme=tokyonight&utcOffset=5.5"/>
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg"/>
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg"/>
 
 </div>
+
+<!--
+  NOTE: These cards are static SVG files committed to this repo by the
+  GitHub Action in .github/workflows/profile-summary-cards.yml, NOT live
+  API calls. This avoids the shared rate-limit errors from the public
+  vercel.app instance. Run the workflow once (Actions tab -> Run workflow)
+  before these paths will resolve — check the generated folder name/file
+  names match exactly, then this block is permanent and rate-limit-free.
+-->
+
 
 <p align="center">
 <img src="./assets/divider.svg" width="100%">
