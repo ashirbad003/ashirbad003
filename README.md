@@ -5,16 +5,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,26&height=220&section=header&text=Ashirbad%20Pattnaik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20"/>
+<img width="100%" src="./assets/hero.svg" alt="Ashirbad Pattnaik"/>
 
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3500&pause=1200&color=9D4EDD&center=true&vCenter=true&width=950&lines=Ashirbad+Pattnaik;Software+Engineer;AI+Engineer;Full+Stack+Developer;Building+Intelligent+Software"/>
-
-<br>
-
-<!-- subtle 3D shadow effect made by layering a second dimmer typing line underneath -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=16&duration=3500&pause=1200&color=6D28D9&center=true&vCenter=true&width=950&lines=%E2%9A%A1+Turning+Ideas+Into+Intelligent+Software+%E2%9A%A1"/>
 
 <br><br>
 
@@ -48,12 +43,8 @@ Backend Engineering, Cloud Computing and Modern Software Development.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ashirbad003&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=ashirbad003&style=for-the-badge&color=8B5CF6"/>
 <img src="https://img.shields.io/badge/Open%20To-Full--Time%20Opportunities-success?style=for-the-badge"/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,26&height=4&section=header"/>
 
 </div>
 
@@ -135,7 +126,7 @@ Every project I build is another opportunity to learn, innovate, and create soft
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,26&height=4&section=header"/>
+<img src="./assets/divider.svg"/>
 </div>
 
 <!-- ============================================================= -->
@@ -158,8 +149,6 @@ My experience comes from academic learning, internships, certifications, hackath
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css,flutter,react,nodejs,express,fastapi,mysql,sqlite,aws,git,github,vscode,linux&perline=10"/>
 
-<sub>Hover-friendly icon set — each badge below shows a live/dynamic proficiency style shield for extra depth</sub>
-
 </div>
 
 ---
@@ -172,12 +161,12 @@ My experience comes from academic learning, internships, certifications, hackath
 
 ## 💻 Programming
 
-![Python](https://img.shields.io/badge/Python-Advanced-9D4EDD?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Advanced-9D4EDD?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-9D4EDD?style=flat-square&logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-Proficient-9D4EDD?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Proficient-9D4EDD?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Proficient-9D4EDD?style=flat-square&logo=mysql&logoColor=white)
+- Python
+- Java
+- JavaScript
+- C
+- C++
+- SQL
 
 ---
 
@@ -384,7 +373,7 @@ Development:
 
 ## 💜 "Keep Learning. Keep Building. Keep Improving."
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,26&height=4&section=header"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 </div>
 
@@ -414,7 +403,7 @@ Development:
 
 # 🌸 FemCare AI
 
-![Status](https://img.shields.io/badge/Status-Completed-9D4EDD?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge)"/>
 
 ### 📝 Overview
 
@@ -472,7 +461,7 @@ Flutter App
 
 # 📄 ATS Resume Checker
 
-![Status](https://img.shields.io/badge/Status-Completed-9D4EDD?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge)"/>
 
 ### 📝 Overview
 
@@ -517,7 +506,7 @@ An AI-powered ATS Resume Analyzer that evaluates resumes, extracts technical ski
 
 # 📱 INTERACT
 
-![Status](https://img.shields.io/badge/Status-Completed-9D4EDD?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge)"/>
 
 ### 📝 Overview
 
@@ -556,7 +545,7 @@ A next-generation social networking platform combining AI-powered discovery, clo
 
 # 🏭 RINL Material Gate Pass System
 
-![Status](https://img.shields.io/badge/Status-Completed-9D4EDD?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge"/>
 
 ### 📝 Overview
 
@@ -612,7 +601,7 @@ Enterprise web application developed during internship to automate industrial ga
 
 ### 🚀 Every project reflects my commitment to building scalable, reliable, and user-focused software.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,26&height=4&section=header"/>
+<img src="./assets/divider.svg"/>
 
 </div>
 
@@ -632,31 +621,9 @@ This GitHub profile represents my learning journey through software engineering,
 
 <div align="center">
 
-## 🏆 Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashirbad003&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=ashirbad003&theme=midnight-purple&hide_border=true&cache_seconds=86400"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashirbad003&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&cache_seconds=86400"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashirbad003&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=86400"/>
+<img src="https://streak-stats.demolab.com?user=ashirbad003&theme=midnight-purple&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
 
 </div>
 
@@ -673,6 +640,8 @@ This GitHub profile represents my learning journey through software engineering,
 ---
 
 <div align="center">
+
+
 
 ## 🐍 Contribution Snake
 
@@ -701,10 +670,11 @@ This GitHub profile represents my learning journey through software engineering,
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashirbad003&theme=tokyonight"/>
 
+
 </div>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,26&height=4&section=header">
+<img src="./assets/divider.svg" width="100%">
 </p>
 
 ---
@@ -738,7 +708,7 @@ Every repository, commit, and project represents another step in my journey towa
 
 ### 💜 *Build Consistently • Learn Continuously • Engineer with Purpose*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,26&height=4&section=header"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 </div>
 
@@ -931,7 +901,7 @@ My goal is to build software that not only works today but remains reliable and 
 
 ### 💜 Engineering is about building systems that people can trust.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,26&height=4&section=header"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 </div>
 
@@ -1034,7 +1004,7 @@ GitHub:
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Building+intelligent+software...;One+commit+at+a+time.+%F0%9F%92%9C"/>
+<img src="./assets/footer.svg" width="100%" alt="Footer"/>
 
 <br>
 
@@ -1053,5 +1023,5 @@ GitHub:
 > *"Great software is not built by writing more code. It's built by solving the right problems with clean engineering."*
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,26&height=120&section=footer"/>
+<img src="./assets/divider.svg" width="100%">
 </p>
